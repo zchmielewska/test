@@ -1,0 +1,11 @@
+framework,component,value
+LAT,Inflation,0.0
+LAT,Level,0.1
+EF,Inflation,0.01
+EF,Level,0.1
+IFRS17_transition,Inflation,0.007609060049
+IFRS17_transition,Level,0.076090600485
+IFRS17,Inflation,0.003267379684
+IFRS17,Level,0.032673796839
+SII,Inflation,0.01
+SII,Level,0.1

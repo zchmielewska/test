@@ -1,0 +1,7 @@
+type,product,value
+PVNBP percentage Transition,AOV,0.010831943553
+BE driver Transition,"",0.120354930575
+Parameter Transition,"",0.120354930575
+PVNBP percentage,AOV,0.004651306827
+BE driver,"",0.051681186969
+Parameter,"",0.051681186969

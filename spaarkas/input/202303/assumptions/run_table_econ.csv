@@ -1,0 +1,1246 @@
+framework,scenario,asset_class,shockfactor
+SII_PIM with VA,OoS_2,Equity,1
+SII_PIM with VA,OoS_1,Equity,1
+SII_PIM with VA,R2-UR3P-8,Equity,1
+SII_PIM with VA,R2-UR3P-7,Equity,1
+SII_PIM with VA,R2-UR3P-6,Equity,1
+SII_PIM with VA,R2-UR3P-5,Equity,1
+SII_PIM with VA,R2-UR3P-4,Equity,1
+SII_PIM with VA,R2-UR3P-3,Equity,1
+SII_PIM with VA,R2-UR3P-2,Equity,1
+SII_PIM with VA,R2-UR3P-1,Equity,1
+SII_PIM with VA,R1-UR3P-8,Equity,1
+SII_PIM with VA,R1-UR3P-7,Equity,1
+SII_PIM with VA,R1-UR3P-6,Equity,1
+SII_PIM with VA,R1-UR3P-5,Equity,1
+SII_PIM with VA,R1-UR3P-4,Equity,1
+SII_PIM with VA,R1-UR3P-3,Equity,1
+SII_PIM with VA,R1-UR3P-2,Equity,1
+SII_PIM with VA,R1-UR3P-1,Equity,1
+SII_PIM with VA,R2-UR3C-8,Equity,1
+SII_PIM with VA,R2-UR3C-7,Equity,1
+SII_PIM with VA,R2-UR3C-6,Equity,1
+SII_PIM with VA,R2-UR3C-5,Equity,1
+SII_PIM with VA,R2-UR3C-4,Equity,1
+SII_PIM with VA,R2-UR3C-3,Equity,1
+SII_PIM with VA,R2-UR3C-2,Equity,1
+SII_PIM with VA,R2-UR3C-1,Equity,1
+SII_PIM with VA,R1-UR3C-8,Equity,1
+SII_PIM with VA,R1-UR3C-7,Equity,1
+SII_PIM with VA,R1-UR3C-6,Equity,1
+SII_PIM with VA,R1-UR3C-5,Equity,1
+SII_PIM with VA,R1-UR3C-4,Equity,1
+SII_PIM with VA,R1-UR3C-3,Equity,1
+SII_PIM with VA,R1-UR3C-2,Equity,1
+SII_PIM with VA,R1-UR3C-1,Equity,1
+SII_PIM with VA,R2-UR1LL-8,Equity,1
+SII_PIM with VA,R2-UR1LL-7,Equity,1
+SII_PIM with VA,R2-UR1LL-6,Equity,1
+SII_PIM with VA,R2-UR1LL-5,Equity,1
+SII_PIM with VA,R2-UR1LL-4,Equity,1
+SII_PIM with VA,R2-UR1LL-3,Equity,1
+SII_PIM with VA,R2-UR1LL-2,Equity,1
+SII_PIM with VA,R2-UR1LL-1,Equity,1
+SII_PIM with VA,R1-UR1LL-8,Equity,1
+SII_PIM with VA,R1-UR1LL-7,Equity,1
+SII_PIM with VA,R1-UR1LL-6,Equity,1
+SII_PIM with VA,R1-UR1LL-5,Equity,1
+SII_PIM with VA,R1-UR1LL-4,Equity,1
+SII_PIM with VA,R1-UR1LL-3,Equity,1
+SII_PIM with VA,R1-UR1LL-2,Equity,1
+SII_PIM with VA,R1-UR1LL-1,Equity,1
+SII_PIM with VA,R2-UR1LT-8,Equity,1
+SII_PIM with VA,R2-UR1LT-7,Equity,1
+SII_PIM with VA,R2-UR1LT-6,Equity,1
+SII_PIM with VA,R2-UR1LT-5,Equity,1
+SII_PIM with VA,R2-UR1LT-4,Equity,1
+SII_PIM with VA,R2-UR1LT-3,Equity,1
+SII_PIM with VA,R2-UR1LT-2,Equity,1
+SII_PIM with VA,R2-UR1LT-1,Equity,1
+SII_PIM with VA,R1-UR1LT-8,Equity,1
+SII_PIM with VA,R1-UR1LT-7,Equity,1
+SII_PIM with VA,R1-UR1LT-6,Equity,1
+SII_PIM with VA,R1-UR1LT-5,Equity,1
+SII_PIM with VA,R1-UR1LT-4,Equity,1
+SII_PIM with VA,R1-UR1LT-3,Equity,1
+SII_PIM with VA,R1-UR1LT-2,Equity,1
+SII_PIM with VA,R1-UR1LT-1,Equity,1
+SII_PIM with VA,R-R-8,Equity,1
+SII_PIM with VA,R-R-7,Equity,1
+SII_PIM with VA,R-R-6,Equity,1
+SII_PIM with VA,R-R-5,Equity,1
+SII_PIM with VA,R-R-4,Equity,1
+SII_PIM with VA,R-R-3,Equity,1
+SII_PIM with VA,R-R-2,Equity,1
+SII_PIM with VA,R-R-1,Equity,1
+SII_PIM with VA,R3_6,Equity,1
+SII_PIM with VA,R3_5,Equity,1
+SII_PIM with VA,R3_4,Equity,1
+SII_PIM with VA,R3_3,Equity,1
+SII_PIM with VA,R3_2,Equity,1
+SII_PIM with VA,R3_1,Equity,1
+SII_PIM with VA,R2_8,Equity,1
+SII_PIM with VA,R2_7,Equity,1
+SII_PIM with VA,R2_6,Equity,1
+SII_PIM with VA,R2_5,Equity,1
+SII_PIM with VA,R2_4,Equity,1
+SII_PIM with VA,R2_3,Equity,1
+SII_PIM with VA,R2_2,Equity,1
+SII_PIM with VA,R2_1,Equity,1
+SII_PIM with VA,R1_8,Equity,1
+SII_PIM with VA,R1_7,Equity,1
+SII_PIM with VA,R1_6,Equity,1
+SII_PIM with VA,R1_5,Equity,1
+SII_PIM with VA,R1_4,Equity,1
+SII_PIM with VA,R1_3,Equity,1
+SII_PIM with VA,R1_2,Equity,1
+SII_PIM with VA,R1_1,Equity,1
+SII_PIM with VA,IR2_6,Equity,1.76899885
+SII_PIM with VA,IR2_4,Equity,1.23850416
+SII_PIM with VA,IR2_3,Equity,0.7780398
+SII_PIM with VA,IR2_1,Equity,0.2276019
+SII_PIM with VA,equity (+25%),Equity,1.25
+SII_PIM with VA,equity  (-25%),Equity,0.75
+SII_PIM with VA,IR2_EQ_EM_PE 40dn,Equity,0.6
+SII_PIM with VA,IR2_EQ_EM_PE 20up,Equity,1.2
+SII_PIM with VA,IR2_EQ_EM_PE 20dn,Equity,0.8
+SII_PIM with VA,MR1_200dn,Equity,1
+SII_PIM with VA,MR1_200up,Equity,1
+SII_PIM with VA,MR1_100dn,Equity,1
+SII_PIM with VA,MR1_100up,Equity,1
+SII_PIM with VA,IR2_EQ_EM_PE 10up,Equity,1.1
+SII_PIM with VA,IR2_EQ_EM_PE 10dn,Equity,0.9
+SII_PIM with VA,IR3 SF scope (nonAPR),Equity,1
+SII_PIM with VA,IR2_Type2_up,Equity,1
+SII_PIM with VA,IR2_up,Equity,1.47178773
+SII_PIM with VA,IR2_Type2_dn,Equity,1
+SII_PIM with VA,IR2_dn,Equity,0.55988393
+SII_PIM with VA,IR1,Equity,1
+SII_PIM with VA,PC3-,Equity,1
+SII_PIM with VA,PC2-,Equity,1
+SII_PIM with VA,PC1-,Equity,1
+SII_PIM with VA,PC3+,Equity,1
+SII_PIM with VA,PC2+,Equity,1
+SII_PIM with VA,PC1+,Equity,1
+SII_SF with VA,MR3,Equity,1
+SII_SF with VA,IR3,Equity,1
+SII_SF with VA,IR2_Type2_up,Equity,1
+SII_SF with VA,IR2_up,Equity,1.40760778
+SII_SF with VA,IR2_Type2_dn,Equity,1
+SII_SF with VA,IR2_dn,Equity,0.59239222
+SII_SF with VA,IR1,Equity,1
+SII_SF with VA,MR1_DN,Equity,1
+SII_SF with VA,MR1_UP,Equity,1
+EF,+100bp,Equity,1
+EF,-100bp,Equity,1
+EF,IR3,Equity,1
+EF,IR2,Equity,0.55988393
+EF,PC3-,Equity,1
+EF,PC2-,Equity,1
+EF,PC1-,Equity,1
+EF,PC3+,Equity,1
+EF,PC2+,Equity,1
+EF,PC1+,Equity,1
+IFRS17,DU_nonFI_25up,Equity,1.25
+IFRS17,DU_nonFI_10up,Equity,1.1
+IFRS17,DU_nonFI_10dn,Equity,0.9
+IFRS17,DU_nonFI_25dn,Equity,0.75
+IFRS17,+100bp incl UFR,Equity,1
+IFRS17,-100bp incl UFR,Equity,1
+IFRS17,-200bp incl UFR,Equity,1
+LAT/IFRS,DU_FI_mortgagespread_50up,Equity,1
+LAT/IFRS,DU_FI_mortgagespread_50dn,Equity,1
+LAT/IFRS,DU_FI_bondcreditspread_50up,Equity,1
+LAT/IFRS,DU_FI_bondcreditspread_50dn,Equity,1
+LAT/IFRS,DU_nonFI_IR2_EQ_EM_PE_25up,Equity,1.25
+LAT/IFRS,DU_nonFI_IR2_EQ_EM_PE_10up,Equity,1.1
+LAT/IFRS,DU_nonFI_IR2_EQ_EM_PE_10dn,Equity,0.9
+LAT/IFRS,DU_nonFI_IR2_EQ_EM_PE_25dn,Equity,0.75
+LAT/IFRS,Currency_USD_15dn,Equity,1
+LAT/IFRS,Currency_USD_15up,Equity,1
+LAT/IFRS,Currency_EUR_15dn,Equity,1
+LAT/IFRS,Currency_EUR_15up,Equity,1
+LAT/IFRS,-200bp incl UFR,Equity,1
+LAT/IFRS,-100bp incl UFR,Equity,1
+LAT/IFRS,+100bp incl UFR,Equity,1
+LAT/IFRS,-200bp excl UFR,Equity,1
+LAT/IFRS,-100bp excl UFR,Equity,1
+LAT/IFRS,+100bp excl UFR,Equity,1
+SII_PIM with VA,OoS_2,Rente,0.94301706
+SII_PIM with VA,OoS_1,Rente,1.04358749
+SII_PIM with VA,R2-UR3P-8,Rente,1.04014896
+SII_PIM with VA,R2-UR3P-7,Rente,1.04014896
+SII_PIM with VA,R2-UR3P-6,Rente,1.02727588
+SII_PIM with VA,R2-UR3P-5,Rente,1.02727588
+SII_PIM with VA,R2-UR3P-4,Rente,0.97186439
+SII_PIM with VA,R2-UR3P-3,Rente,0.97186439
+SII_PIM with VA,R2-UR3P-2,Rente,0.95738151
+SII_PIM with VA,R2-UR3P-1,Rente,0.95738151
+SII_PIM with VA,R1-UR3P-8,Rente,0.85549608
+SII_PIM with VA,R1-UR3P-7,Rente,0.85549608
+SII_PIM with VA,R1-UR3P-6,Rente,0.90634065
+SII_PIM with VA,R1-UR3P-5,Rente,0.90634065
+SII_PIM with VA,R1-UR3P-4,Rente,1.09685276
+SII_PIM with VA,R1-UR3P-3,Rente,1.09685276
+SII_PIM with VA,R1-UR3P-2,Rente,1.13819788
+SII_PIM with VA,R1-UR3P-1,Rente,1.13819788
+SII_PIM with VA,R2-UR3C-8,Rente,1.04014896
+SII_PIM with VA,R2-UR3C-7,Rente,1.04014896
+SII_PIM with VA,R2-UR3C-6,Rente,1.02727588
+SII_PIM with VA,R2-UR3C-5,Rente,1.02727588
+SII_PIM with VA,R2-UR3C-4,Rente,0.97186439
+SII_PIM with VA,R2-UR3C-3,Rente,0.97186439
+SII_PIM with VA,R2-UR3C-2,Rente,0.95738151
+SII_PIM with VA,R2-UR3C-1,Rente,0.95738151
+SII_PIM with VA,R1-UR3C-8,Rente,0.85549608
+SII_PIM with VA,R1-UR3C-7,Rente,0.85549608
+SII_PIM with VA,R1-UR3C-6,Rente,0.90634065
+SII_PIM with VA,R1-UR3C-5,Rente,0.90634065
+SII_PIM with VA,R1-UR3C-4,Rente,1.09685276
+SII_PIM with VA,R1-UR3C-3,Rente,1.09685276
+SII_PIM with VA,R1-UR3C-2,Rente,1.13819788
+SII_PIM with VA,R1-UR3C-1,Rente,1.13819788
+SII_PIM with VA,R2-UR1LL-8,Rente,1.04755912
+SII_PIM with VA,R2-UR1LL-7,Rente,1.04755912
+SII_PIM with VA,R2-UR1LL-6,Rente,1.04014896
+SII_PIM with VA,R2-UR1LL-5,Rente,1.04014896
+SII_PIM with VA,R2-UR1LL-4,Rente,0.95738151
+SII_PIM with VA,R2-UR1LL-3,Rente,0.95738151
+SII_PIM with VA,R2-UR1LL-2,Rente,0.94699249
+SII_PIM with VA,R2-UR1LL-1,Rente,0.94699249
+SII_PIM with VA,R1-UR1LL-8,Rente,1.04755912
+SII_PIM with VA,R1-UR1LL-7,Rente,1.04755912
+SII_PIM with VA,R1-UR1LL-6,Rente,0.85549608
+SII_PIM with VA,R1-UR1LL-5,Rente,0.85549608
+SII_PIM with VA,R1-UR1LL-4,Rente,1.13819788
+SII_PIM with VA,R1-UR1LL-3,Rente,1.13819788
+SII_PIM with VA,R1-UR1LL-2,Rente,1.16056277
+SII_PIM with VA,R1-UR1LL-1,Rente,1.16056277
+SII_PIM with VA,R2-UR1LT-8,Rente,1.04755912
+SII_PIM with VA,R2-UR1LT-7,Rente,1.04755912
+SII_PIM with VA,R2-UR1LT-6,Rente,1.04014896
+SII_PIM with VA,R2-UR1LT-5,Rente,1.04014896
+SII_PIM with VA,R2-UR1LT-4,Rente,0.95738151
+SII_PIM with VA,R2-UR1LT-3,Rente,0.95738151
+SII_PIM with VA,R2-UR1LT-2,Rente,0.94699249
+SII_PIM with VA,R2-UR1LT-1,Rente,0.94699249
+SII_PIM with VA,R1-UR1LT-8,Rente,0.81716598
+SII_PIM with VA,R1-UR1LT-7,Rente,0.81716598
+SII_PIM with VA,R1-UR1LT-6,Rente,0.85549608
+SII_PIM with VA,R1-UR1LT-5,Rente,0.85549608
+SII_PIM with VA,R1-UR1LT-4,Rente,1.13819788
+SII_PIM with VA,R1-UR1LT-3,Rente,1.13819788
+SII_PIM with VA,R1-UR1LT-2,Rente,1.16056277
+SII_PIM with VA,R1-UR1LT-1,Rente,1.16056277
+SII_PIM with VA,R-R-8,Rente,0.86331105
+SII_PIM with VA,R-R-7,Rente,0.76586783
+SII_PIM with VA,R-R-6,Rente,0.8947321
+SII_PIM with VA,R-R-5,Rente,0.81400319
+SII_PIM with VA,R-R-4,Rente,1.17942556
+SII_PIM with VA,R-R-3,Rente,1.09465803
+SII_PIM with VA,R-R-2,Rente,1.20957805
+SII_PIM with VA,R-R-1,Rente,1.10618334
+SII_PIM with VA,R3_6,Rente,1.00203667
+SII_PIM with VA,R3_5,Rente,1.0008223
+SII_PIM with VA,R3_4,Rente,1.0003798
+SII_PIM with VA,R3_3,Rente,0.99938086
+SII_PIM with VA,R3_2,Rente,0.9988214
+SII_PIM with VA,R3_1,Rente,0.99678701
+SII_PIM with VA,R2_8,Rente,1.06460793
+SII_PIM with VA,R2_7,Rente,1.04755912
+SII_PIM with VA,R2_6,Rente,1.02727588
+SII_PIM with VA,R2_5,Rente,1.01387592
+SII_PIM with VA,R2_4,Rente,0.9861513
+SII_PIM with VA,R2_3,Rente,0.97186439
+SII_PIM with VA,R2_2,Rente,0.94699249
+SII_PIM with VA,R2_1,Rente,0.92165755
+SII_PIM with VA,R1_8,Rente,0.72448098
+SII_PIM with VA,R1_7,Rente,0.81716598
+SII_PIM with VA,R1_6,Rente,0.90634065
+SII_PIM with VA,R1_5,Rente,0.95485346
+SII_PIM with VA,R1_4,Rente,1.05059329
+SII_PIM with VA,R1_3,Rente,1.09685276
+SII_PIM with VA,R1_2,Rente,1.16056277
+SII_PIM with VA,R1_1,Rente,1.20639881
+SII_PIM with VA,IR2_6,Rente,1
+SII_PIM with VA,IR2_4,Rente,1
+SII_PIM with VA,IR2_3,Rente,1
+SII_PIM with VA,IR2_1,Rente,1
+SII_PIM with VA,equity (+25%),Rente,1
+SII_PIM with VA,equity  (-25%),Rente,1
+SII_PIM with VA,IR2_EQ_EM_PE 40dn,Rente,1
+SII_PIM with VA,IR2_EQ_EM_PE 20up,Rente,1
+SII_PIM with VA,IR2_EQ_EM_PE 20dn,Rente,1
+SII_PIM with VA,MR1_200dn,Rente,1.15379166
+SII_PIM with VA,MR1_200up,Rente,0.84987232
+SII_PIM with VA,MR1_100dn,Rente,1.07643068
+SII_PIM with VA,MR1_100up,Rente,0.92448525
+SII_PIM with VA,IR2_EQ_EM_PE 10up,Rente,1
+SII_PIM with VA,IR2_EQ_EM_PE 10dn,Rente,1
+SII_PIM with VA,IR3 SF scope (nonAPR),Rente,1
+SII_PIM with VA,IR2_Type2_up,Rente,1
+SII_PIM with VA,IR2_up,Rente,1
+SII_PIM with VA,IR2_Type2_dn,Rente,1
+SII_PIM with VA,IR2_dn,Rente,1
+SII_PIM with VA,IR1,Rente,0.98035297
+SII_PIM with VA,PC3-,Rente,0.99821137
+SII_PIM with VA,PC2-,Rente,0.95738151
+SII_PIM with VA,PC1-,Rente,1.13819788
+SII_PIM with VA,PC3+,Rente,1.00124316
+SII_PIM with VA,PC2+,Rente,1.04014896
+SII_PIM with VA,PC1+,Rente,0.85549608
+SII_SF with VA,MR3,Rente,1
+SII_SF with VA,IR3,Rente,1
+SII_SF with VA,IR2_Type2_up,Rente,1
+SII_SF with VA,IR2_up,Rente,1
+SII_SF with VA,IR2_Type2_dn,Rente,1
+SII_SF with VA,IR2_dn,Rente,1
+SII_SF with VA,IR1,Rente,1
+SII_SF with VA,MR1_DN,Rente,1.08359407
+SII_SF with VA,MR1_UP,Rente,0.89819129
+EF,+100bp,Rente,0.92448525
+EF,-100bp,Rente,1.07643068
+EF,IR3,Rente,1
+EF,IR2,Rente,1
+EF,PC3-,Rente,0.99821137
+EF,PC2-,Rente,0.95738151
+EF,PC1-,Rente,1.13819788
+EF,PC3+,Rente,1.00124316
+EF,PC2+,Rente,1.04014896
+EF,PC1+,Rente,0.85549608
+IFRS17,DU_nonFI_25up,Rente,1
+IFRS17,DU_nonFI_10up,Rente,1
+IFRS17,DU_nonFI_10dn,Rente,1
+IFRS17,DU_nonFI_25dn,Rente,1
+IFRS17,+100bp incl UFR,Rente,0.92448525
+IFRS17,-100bp incl UFR,Rente,1.07643068
+IFRS17,-200bp incl UFR,Rente,1.15379166
+LAT/IFRS,DU_FI_mortgagespread_50up,Rente,1
+LAT/IFRS,DU_FI_mortgagespread_50dn,Rente,1
+LAT/IFRS,DU_FI_bondcreditspread_50up,Rente,0.96212902
+LAT/IFRS,DU_FI_bondcreditspread_50dn,Rente,1.03809996
+LAT/IFRS,DU_nonFI_IR2_EQ_EM_PE_25up,Rente,1
+LAT/IFRS,DU_nonFI_IR2_EQ_EM_PE_10up,Rente,1
+LAT/IFRS,DU_nonFI_IR2_EQ_EM_PE_10dn,Rente,1
+LAT/IFRS,DU_nonFI_IR2_EQ_EM_PE_25dn,Rente,1
+LAT/IFRS,Currency_USD_15dn,Rente,1
+LAT/IFRS,Currency_USD_15up,Rente,1
+LAT/IFRS,Currency_EUR_15dn,Rente,1
+LAT/IFRS,Currency_EUR_15up,Rente,1
+LAT/IFRS,-200bp incl UFR,Rente,1.15379166
+LAT/IFRS,-100bp incl UFR,Rente,1.07643068
+LAT/IFRS,+100bp incl UFR,Rente,0.92448525
+LAT/IFRS,-200bp excl UFR,Rente,1.15379166
+LAT/IFRS,-100bp excl UFR,Rente,1.07643068
+LAT/IFRS,+100bp excl UFR,Rente,0.92448525
+SII_PIM with VA,OoS_2,Mix,0.9767139
+SII_PIM with VA,OoS_1,Mix,1.01821108
+SII_PIM with VA,R2-UR3P-8,Mix,1.01268619
+SII_PIM with VA,R2-UR3P-7,Mix,1.01268619
+SII_PIM with VA,R2-UR3P-6,Mix,1.00864249
+SII_PIM with VA,R2-UR3P-5,Mix,1.00864249
+SII_PIM with VA,R2-UR3P-4,Mix,0.99104076
+SII_PIM with VA,R2-UR3P-3,Mix,0.99104076
+SII_PIM with VA,R2-UR3P-2,Mix,0.98640105
+SII_PIM with VA,R2-UR3P-1,Mix,0.98640105
+SII_PIM with VA,R1-UR3P-8,Mix,0.94503597
+SII_PIM with VA,R1-UR3P-7,Mix,0.94503597
+SII_PIM with VA,R1-UR3P-6,Mix,0.96442959
+SII_PIM with VA,R1-UR3P-5,Mix,0.96442959
+SII_PIM with VA,R1-UR3P-4,Mix,1.03661854
+SII_PIM with VA,R1-UR3P-3,Mix,1.03661854
+SII_PIM with VA,R1-UR3P-2,Mix,1.05217464
+SII_PIM with VA,R1-UR3P-1,Mix,1.05217464
+SII_PIM with VA,R2-UR3C-8,Mix,1.01268619
+SII_PIM with VA,R2-UR3C-7,Mix,1.01268619
+SII_PIM with VA,R2-UR3C-6,Mix,1.00864249
+SII_PIM with VA,R2-UR3C-5,Mix,1.00864249
+SII_PIM with VA,R2-UR3C-4,Mix,0.99104076
+SII_PIM with VA,R2-UR3C-3,Mix,0.99104076
+SII_PIM with VA,R2-UR3C-2,Mix,0.98640105
+SII_PIM with VA,R2-UR3C-1,Mix,0.98640105
+SII_PIM with VA,R1-UR3C-8,Mix,0.94503597
+SII_PIM with VA,R1-UR3C-7,Mix,0.94503597
+SII_PIM with VA,R1-UR3C-6,Mix,0.96442959
+SII_PIM with VA,R1-UR3C-5,Mix,0.96442959
+SII_PIM with VA,R1-UR3C-4,Mix,1.03661854
+SII_PIM with VA,R1-UR3C-3,Mix,1.03661854
+SII_PIM with VA,R1-UR3C-2,Mix,1.05217464
+SII_PIM with VA,R1-UR3C-1,Mix,1.05217464
+SII_PIM with VA,R2-UR1LL-8,Mix,1.01500363
+SII_PIM with VA,R2-UR1LL-7,Mix,1.01500363
+SII_PIM with VA,R2-UR1LL-6,Mix,1.01268619
+SII_PIM with VA,R2-UR1LL-5,Mix,1.01268619
+SII_PIM with VA,R2-UR1LL-4,Mix,0.98640105
+SII_PIM with VA,R2-UR1LL-3,Mix,0.98640105
+SII_PIM with VA,R2-UR1LL-2,Mix,0.98306525
+SII_PIM with VA,R2-UR1LL-1,Mix,0.98306525
+SII_PIM with VA,R1-UR1LL-8,Mix,1.01500363
+SII_PIM with VA,R1-UR1LL-7,Mix,1.01500363
+SII_PIM with VA,R1-UR1LL-6,Mix,0.94503597
+SII_PIM with VA,R1-UR1LL-5,Mix,0.94503597
+SII_PIM with VA,R1-UR1LL-4,Mix,1.05217464
+SII_PIM with VA,R1-UR1LL-3,Mix,1.05217464
+SII_PIM with VA,R1-UR1LL-2,Mix,1.06057117
+SII_PIM with VA,R1-UR1LL-1,Mix,1.06057117
+SII_PIM with VA,R2-UR1LT-8,Mix,1.01500363
+SII_PIM with VA,R2-UR1LT-7,Mix,1.01500363
+SII_PIM with VA,R2-UR1LT-6,Mix,1.01268619
+SII_PIM with VA,R2-UR1LT-5,Mix,1.01268619
+SII_PIM with VA,R2-UR1LT-4,Mix,0.98640105
+SII_PIM with VA,R2-UR1LT-3,Mix,0.98640105
+SII_PIM with VA,R2-UR1LT-2,Mix,0.98306525
+SII_PIM with VA,R2-UR1LT-1,Mix,0.98306525
+SII_PIM with VA,R1-UR1LT-8,Mix,0.93038321
+SII_PIM with VA,R1-UR1LT-7,Mix,0.93038321
+SII_PIM with VA,R1-UR1LT-6,Mix,0.94503597
+SII_PIM with VA,R1-UR1LT-5,Mix,0.94503597
+SII_PIM with VA,R1-UR1LT-4,Mix,1.05217464
+SII_PIM with VA,R1-UR1LT-3,Mix,1.05217464
+SII_PIM with VA,R1-UR1LT-2,Mix,1.06057117
+SII_PIM with VA,R1-UR1LT-1,Mix,1.06057117
+SII_PIM with VA,R-R-8,Mix,0.94490116
+SII_PIM with VA,R-R-7,Mix,0.91400891
+SII_PIM with VA,R-R-6,Mix,0.95740334
+SII_PIM with VA,R-R-5,Mix,0.93180121
+SII_PIM with VA,R-R-4,Mix,1.06520863
+SII_PIM with VA,R-R-3,Mix,1.03825095
+SII_PIM with VA,R-R-2,Mix,1.07604908
+SII_PIM with VA,R-R-1,Mix,1.04315935
+SII_PIM with VA,R3_6,Mix,1.00183774
+SII_PIM with VA,R3_5,Mix,1.00073747
+SII_PIM with VA,R3_4,Mix,1.00036653
+SII_PIM with VA,R3_3,Mix,0.9995675
+SII_PIM with VA,R3_2,Mix,0.99913807
+SII_PIM with VA,R3_1,Mix,0.99765299
+SII_PIM with VA,R2_8,Mix,1.02030221
+SII_PIM with VA,R2_7,Mix,1.01500363
+SII_PIM with VA,R2_6,Mix,1.00864249
+SII_PIM with VA,R2_5,Mix,1.00441226
+SII_PIM with VA,R2_4,Mix,0.995604
+SII_PIM with VA,R2_3,Mix,0.99104076
+SII_PIM with VA,R2_2,Mix,0.98306525
+SII_PIM with VA,R2_1,Mix,0.9749077
+SII_PIM with VA,R1_8,Mix,0.89484163
+SII_PIM with VA,R1_7,Mix,0.93038321
+SII_PIM with VA,R1_6,Mix,0.96442959
+SII_PIM with VA,R1_5,Mix,0.98288605
+SII_PIM with VA,R1_4,Mix,1.01916405
+SII_PIM with VA,R1_3,Mix,1.03661854
+SII_PIM with VA,R1_2,Mix,1.06057117
+SII_PIM with VA,R1_1,Mix,1.07773718
+SII_PIM with VA,IR2_6,Mix,1.26244431
+SII_PIM with VA,IR2_4,Mix,1.08139682
+SII_PIM with VA,IR2_3,Mix,0.92424932
+SII_PIM with VA,IR2_1,Mix,0.7363956
+SII_PIM with VA,equity (+25%),Mix,1.08532012
+SII_PIM with VA,equity  (-25%),Mix,0.91467988
+SII_PIM with VA,IR2_EQ_EM_PE 40dn,Mix,0.8634878
+SII_PIM with VA,IR2_EQ_EM_PE 20up,Mix,1.0682561
+SII_PIM with VA,IR2_EQ_EM_PE 20dn,Mix,0.9317439
+SII_PIM with VA,MR1_200dn,Mix,1.05676112
+SII_PIM with VA,MR1_200up,Mix,0.94452053
+SII_PIM with VA,MR1_100dn,Mix,1.02821796
+SII_PIM with VA,MR1_100up,Mix,0.97210243
+SII_PIM with VA,IR2_EQ_EM_PE 10up,Mix,1.03412805
+SII_PIM with VA,IR2_EQ_EM_PE 10dn,Mix,0.96587195
+SII_PIM with VA,IR3 SF scope (nonAPR),Mix,0.97452503
+SII_PIM with VA,IR2_Type2_up,Mix,1.01512624
+SII_PIM with VA,IR2_up,Mix,1.16101195
+SII_PIM with VA,IR2_Type2_dn,Mix,0.98487376
+SII_PIM with VA,IR2_dn,Mix,0.84979697
+SII_PIM with VA,IR1,Mix,0.94248271
+SII_PIM with VA,PC3-,Mix,0.99868149
+SII_PIM with VA,PC2-,Mix,0.98640105
+SII_PIM with VA,PC1-,Mix,1.05217464
+SII_PIM with VA,PC3+,Mix,1.00110293
+SII_PIM with VA,PC2+,Mix,1.01268619
+SII_PIM with VA,PC1+,Mix,0.94503597
+SII_SF with VA,MR3,Mix,0.9844917
+SII_SF with VA,IR3,Mix,0.97452503
+SII_SF with VA,IR2_Type2_up,Mix,1.01512624
+SII_SF with VA,IR2_up,Mix,1.13910858
+SII_SF with VA,IR2_Type2_dn,Mix,0.98487376
+SII_SF with VA,IR2_dn,Mix,0.86089142
+SII_SF with VA,IR1,Mix,0.96112185
+SII_SF with VA,MR1_DN,Mix,1.03270724
+SII_SF with VA,MR1_UP,Mix,0.960375
+EF,+100bp,Mix,0.97210243
+EF,-100bp,Mix,1.02821796
+EF,IR3,Mix,0.97452503
+EF,IR2,Mix,0.84979697
+EF,PC3-,Mix,0.99868149
+EF,PC2-,Mix,0.98640105
+EF,PC1-,Mix,1.05217464
+EF,PC3+,Mix,1.00110293
+EF,PC2+,Mix,1.01268619
+EF,PC1+,Mix,0.94503597
+IFRS17,DU_nonFI_25up,Mix,1.08532012
+IFRS17,DU_nonFI_10up,Mix,1.03412805
+IFRS17,DU_nonFI_10dn,Mix,0.96587195
+IFRS17,DU_nonFI_25dn,Mix,0.91467988
+IFRS17,+100bp incl UFR,Mix,0.97210243
+IFRS17,-100bp incl UFR,Mix,1.02821796
+IFRS17,-200bp incl UFR,Mix,1.05676112
+LAT/IFRS,DU_FI_mortgagespread_50up,Mix,0.99624811
+LAT/IFRS,DU_FI_mortgagespread_50dn,Mix,1.00377462
+LAT/IFRS,DU_FI_bondcreditspread_50up,Mix,0.98976335
+LAT/IFRS,DU_FI_bondcreditspread_50dn,Mix,1.01029401
+LAT/IFRS,DU_nonFI_IR2_EQ_EM_PE_25up,Mix,1.08532012
+LAT/IFRS,DU_nonFI_IR2_EQ_EM_PE_10up,Mix,1.03412805
+LAT/IFRS,DU_nonFI_IR2_EQ_EM_PE_10dn,Mix,0.96587195
+LAT/IFRS,DU_nonFI_IR2_EQ_EM_PE_25dn,Mix,0.91467988
+LAT/IFRS,Currency_USD_15dn,Mix,0.99483057
+LAT/IFRS,Currency_USD_15up,Mix,1.00516943
+LAT/IFRS,Currency_EUR_15dn,Mix,1.00937391
+LAT/IFRS,Currency_EUR_15up,Mix,0.99062609
+LAT/IFRS,-200bp incl UFR,Mix,1.05676112
+LAT/IFRS,-100bp incl UFR,Mix,1.02821796
+LAT/IFRS,+100bp incl UFR,Mix,0.97210243
+LAT/IFRS,-200bp excl UFR,Mix,1.05676112
+LAT/IFRS,-100bp excl UFR,Mix,1.02821796
+LAT/IFRS,+100bp excl UFR,Mix,0.97210243
+Proxy,IR2_1,Equity,0.339826
+Proxy,IR2_1,Mix,0.774695
+Proxy,IR2_1,Rente,1
+Proxy,IR2_2,Equity,0.559884
+Proxy,IR2_2,Mix,0.849797
+Proxy,IR2_2,Rente,1
+Proxy,IR2_3,Equity,0.779942
+Proxy,IR2_3,Mix,0.924898
+Proxy,IR2_3,Rente,1
+Proxy,IR2_4,Equity,1.235894
+Proxy,IR2_4,Mix,1.080506
+Proxy,IR2_4,Rente,1
+Proxy,IR2_5,Equity,1.471788
+Proxy,IR2_5,Mix,1.161012
+Proxy,IR2_5,Rente,1
+Proxy,IR2_6,Equity,1.707682
+Proxy,IR2_6,Mix,1.241518
+Proxy,IR2_6,Rente,1
+Proxy,IR3_1,Equity,1
+Proxy,IR3_1,Mix,1
+Proxy,IR3_1,Rente,1
+Proxy,MC1,Equity,1
+Proxy,MC1,Mix,1
+Proxy,MC1,Rente,1
+Proxy,MC2,Equity,1
+Proxy,MC2,Mix,1
+Proxy,MC2,Rente,1
+Proxy,MC3,Equity,1
+Proxy,MC3,Mix,1
+Proxy,MC3,Rente,1
+Proxy,MC4,Equity,1
+Proxy,MC4,Mix,1
+Proxy,MC4,Rente,1
+Proxy,MC5,Equity,1
+Proxy,MC5,Mix,1
+Proxy,MC5,Rente,1
+Proxy,MC6,Equity,1
+Proxy,MC6,Mix,1
+Proxy,MC6,Rente,1
+Proxy,MC7,Equity,1
+Proxy,MC7,Mix,1
+Proxy,MC7,Rente,1
+Proxy,MC8,Equity,1
+Proxy,MC8,Mix,1
+Proxy,MC8,Rente,1
+Proxy,MC-MP-1,Equity,1
+Proxy,MC-MP-1,Mix,1
+Proxy,MC-MP-1,Rente,1
+Proxy,MC-MP-2,Equity,1
+Proxy,MC-MP-2,Mix,1
+Proxy,MC-MP-2,Rente,1
+Proxy,MC-MP-3,Equity,1
+Proxy,MC-MP-3,Mix,1
+Proxy,MC-MP-3,Rente,1
+Proxy,MC-MP-4,Equity,1
+Proxy,MC-MP-4,Mix,1
+Proxy,MC-MP-4,Rente,1
+Proxy,MC-MP-5,Equity,1
+Proxy,MC-MP-5,Mix,1
+Proxy,MC-MP-5,Rente,1
+Proxy,MC-MP-6,Equity,1
+Proxy,MC-MP-6,Mix,1
+Proxy,MC-MP-6,Rente,1
+Proxy,MC-MP-7,Equity,1
+Proxy,MC-MP-7,Mix,1
+Proxy,MC-MP-7,Rente,1
+Proxy,MC-MP-8,Equity,1
+Proxy,MC-MP-8,Mix,1
+Proxy,MC-MP-8,Rente,1
+Proxy,MP1,Equity,1
+Proxy,MP1,Mix,1
+Proxy,MP1,Rente,1
+Proxy,MP2,Equity,1
+Proxy,MP2,Mix,1
+Proxy,MP2,Rente,1
+Proxy,MP3,Equity,1
+Proxy,MP3,Mix,1
+Proxy,MP3,Rente,1
+Proxy,MP4,Equity,1
+Proxy,MP4,Mix,1
+Proxy,MP4,Rente,1
+Proxy,MP5,Equity,1
+Proxy,MP5,Mix,1
+Proxy,MP5,Rente,1
+Proxy,MP6,Equity,1
+Proxy,MP6,Mix,1
+Proxy,MP6,Rente,1
+Proxy,MP7,Equity,1
+Proxy,MP7,Mix,1
+Proxy,MP7,Rente,1
+Proxy,MP8,Equity,1
+Proxy,MP8,Mix,1
+Proxy,MP8,Rente,1
+Proxy,OoS_1,Equity,1
+Proxy,OoS_1,Mix,1.016077
+Proxy,OoS_1,Rente,1.036723
+Proxy,OoS_2,Equity,1
+Proxy,OoS_2,Mix,0.974858
+Proxy,OoS_2,Rente,0.936733
+Proxy,R1_1,Equity,1
+Proxy,R1_1,Mix,1.087132
+Proxy,R1_1,Rente,1.23079
+Proxy,R1_2,Equity,1
+Proxy,R1_2,Mix,1.069392
+Proxy,R1_2,Rente,1.183803
+Proxy,R1_3,Equity,1
+Proxy,R1_3,Mix,1.034957
+Proxy,R1_3,Rente,1.092593
+Proxy,R1_4,Equity,1
+Proxy,R1_4,Mix,1.017218
+Proxy,R1_4,Rente,1.045605
+Proxy,R1_5,Equity,1
+Proxy,R1_5,Mix,0.981862
+Proxy,R1_5,Rente,0.952314
+Proxy,R1_6,Equity,1
+Proxy,R1_6,Mix,0.963174
+Proxy,R1_6,Rente,0.903182
+Proxy,R1_7,Equity,1
+Proxy,R1_7,Mix,0.926898
+Proxy,R1_7,Rente,0.80781
+Proxy,R1_8,Equity,1
+Proxy,R1_8,Mix,0.90821
+Proxy,R1_8,Rente,0.758678
+Proxy,R1_D,Equity,1
+Proxy,R1_D,Mix,1.052175
+Proxy,R1_D,Rente,1.138198
+Proxy,R1_U,Equity,1
+Proxy,R1_U,Mix,0.945036
+Proxy,R1_U,Rente,0.855496
+Proxy,R1-UR1LL-1,Equity,1
+Proxy,R1-UR1LL-1,Mix,1.069392
+Proxy,R1-UR1LL-1,Rente,1.183803
+Proxy,R1-UR1LL-2,Equity,1
+Proxy,R1-UR1LL-2,Mix,1.069392
+Proxy,R1-UR1LL-2,Rente,1.183803
+Proxy,R1-UR1LL-3,Equity,1
+Proxy,R1-UR1LL-3,Mix,1.052175
+Proxy,R1-UR1LL-3,Rente,1.138198
+Proxy,R1-UR1LL-4,Equity,1
+Proxy,R1-UR1LL-4,Mix,1.052175
+Proxy,R1-UR1LL-4,Rente,1.138198
+Proxy,R1-UR1LL-5,Equity,1
+Proxy,R1-UR1LL-5,Mix,0.945036
+Proxy,R1-UR1LL-5,Rente,0.855496
+Proxy,R1-UR1LL-6,Equity,1
+Proxy,R1-UR1LL-6,Mix,0.945036
+Proxy,R1-UR1LL-6,Rente,0.855496
+Proxy,R1-UR1LL-7,Equity,1
+Proxy,R1-UR1LL-7,Mix,0.926898
+Proxy,R1-UR1LL-7,Rente,0.80781
+Proxy,R1-UR1LL-8,Equity,1
+Proxy,R1-UR1LL-8,Mix,0.926898
+Proxy,R1-UR1LL-8,Rente,0.80781
+Proxy,R1-UR1LT-1,Equity,1
+Proxy,R1-UR1LT-1,Mix,1.069392
+Proxy,R1-UR1LT-1,Rente,1.183803
+Proxy,R1-UR1LT-2,Equity,1
+Proxy,R1-UR1LT-2,Mix,1.069392
+Proxy,R1-UR1LT-2,Rente,1.183803
+Proxy,R1-UR1LT-3,Equity,1
+Proxy,R1-UR1LT-3,Mix,1.052175
+Proxy,R1-UR1LT-3,Rente,1.138198
+Proxy,R1-UR1LT-4,Equity,1
+Proxy,R1-UR1LT-4,Mix,1.052175
+Proxy,R1-UR1LT-4,Rente,1.138198
+Proxy,R1-UR1LT-5,Equity,1
+Proxy,R1-UR1LT-5,Mix,0.945036
+Proxy,R1-UR1LT-5,Rente,0.855496
+Proxy,R1-UR1LT-6,Equity,1
+Proxy,R1-UR1LT-6,Mix,0.945036
+Proxy,R1-UR1LT-6,Rente,0.855496
+Proxy,R1-UR1LT-7,Equity,1
+Proxy,R1-UR1LT-7,Mix,0.926898
+Proxy,R1-UR1LT-7,Rente,0.80781
+Proxy,R1-UR1LT-8,Equity,1
+Proxy,R1-UR1LT-8,Mix,0.926898
+Proxy,R1-UR1LT-8,Rente,0.80781
+Proxy,R1-UR3C-1,Equity,1
+Proxy,R1-UR3C-1,Mix,1.052175
+Proxy,R1-UR3C-1,Rente,1.138198
+Proxy,R1-UR3C-2,Equity,1
+Proxy,R1-UR3C-2,Mix,1.052175
+Proxy,R1-UR3C-2,Rente,1.138198
+Proxy,R1-UR3C-3,Equity,1
+Proxy,R1-UR3C-3,Mix,1.034957
+Proxy,R1-UR3C-3,Rente,1.092593
+Proxy,R1-UR3C-4,Equity,1
+Proxy,R1-UR3C-4,Mix,1.034957
+Proxy,R1-UR3C-4,Rente,1.092593
+Proxy,R1-UR3C-5,Equity,1
+Proxy,R1-UR3C-5,Mix,0.963174
+Proxy,R1-UR3C-5,Rente,0.903182
+Proxy,R1-UR3C-6,Equity,1
+Proxy,R1-UR3C-6,Mix,0.963174
+Proxy,R1-UR3C-6,Rente,0.903182
+Proxy,R1-UR3C-7,Equity,1
+Proxy,R1-UR3C-7,Mix,0.945036
+Proxy,R1-UR3C-7,Rente,0.855496
+Proxy,R1-UR3C-8,Equity,1
+Proxy,R1-UR3C-8,Mix,0.945036
+Proxy,R1-UR3C-8,Rente,0.855496
+Proxy,R1-UR3P-1,Equity,1
+Proxy,R1-UR3P-1,Mix,1.052175
+Proxy,R1-UR3P-1,Rente,1.138198
+Proxy,R1-UR3P-2,Equity,1
+Proxy,R1-UR3P-2,Mix,1.052175
+Proxy,R1-UR3P-2,Rente,1.138198
+Proxy,R1-UR3P-3,Equity,1
+Proxy,R1-UR3P-3,Mix,1.034957
+Proxy,R1-UR3P-3,Rente,1.092593
+Proxy,R1-UR3P-4,Equity,1
+Proxy,R1-UR3P-4,Mix,1.034957
+Proxy,R1-UR3P-4,Rente,1.092593
+Proxy,R1-UR3P-5,Equity,1
+Proxy,R1-UR3P-5,Mix,0.963174
+Proxy,R1-UR3P-5,Rente,0.903182
+Proxy,R1-UR3P-6,Equity,1
+Proxy,R1-UR3P-6,Mix,0.963174
+Proxy,R1-UR3P-6,Rente,0.903182
+Proxy,R1-UR3P-7,Equity,1
+Proxy,R1-UR3P-7,Mix,0.945036
+Proxy,R1-UR3P-7,Rente,0.855496
+Proxy,R1-UR3P-8,Equity,1
+Proxy,R1-UR3P-8,Mix,0.945036
+Proxy,R1-UR3P-8,Rente,0.855496
+Proxy,R2_1,Equity,1
+Proxy,R2_1,Mix,0.97729
+Proxy,R2_1,Rente,0.928827
+Proxy,R2_2,Equity,1
+Proxy,R2_2,Mix,0.981913
+Proxy,R2_2,Rente,0.943317
+Proxy,R2_3,Equity,1
+Proxy,R2_3,Mix,0.990889
+Proxy,R2_3,Rente,0.971446
+Proxy,R2_4,Equity,1
+Proxy,R2_4,Mix,0.995512
+Proxy,R2_4,Rente,0.985936
+Proxy,R2_5,Equity,1
+Proxy,R2_5,Mix,1.004186
+Proxy,R2_5,Rente,1.013249
+Proxy,R2_6,Equity,1
+Proxy,R2_6,Mix,1.0085
+Proxy,R2_6,Rente,1.0269
+Proxy,R2_7,Equity,1
+Proxy,R2_7,Mix,1.016873
+Proxy,R2_7,Rente,1.053398
+Proxy,R2_8,Equity,1
+Proxy,R2_8,Mix,1.021186
+Proxy,R2_8,Rente,1.067049
+Proxy,R2_D,Equity,1
+Proxy,R2_D,Mix,0.986401
+Proxy,R2_D,Rente,0.957382
+Proxy,R2_U,Equity,1
+Proxy,R2_U,Mix,1.012686
+Proxy,R2_U,Rente,1.040149
+Proxy,R2-UR1LL-1,Equity,1
+Proxy,R2-UR1LL-1,Mix,0.981913
+Proxy,R2-UR1LL-1,Rente,0.943317
+Proxy,R2-UR1LL-2,Equity,1
+Proxy,R2-UR1LL-2,Mix,0.981913
+Proxy,R2-UR1LL-2,Rente,0.943317
+Proxy,R2-UR1LL-3,Equity,1
+Proxy,R2-UR1LL-3,Mix,0.986401
+Proxy,R2-UR1LL-3,Rente,0.957382
+Proxy,R2-UR1LL-4,Equity,1
+Proxy,R2-UR1LL-4,Mix,0.986401
+Proxy,R2-UR1LL-4,Rente,0.957382
+Proxy,R2-UR1LL-5,Equity,1
+Proxy,R2-UR1LL-5,Mix,1.012686
+Proxy,R2-UR1LL-5,Rente,1.040149
+Proxy,R2-UR1LL-6,Equity,1
+Proxy,R2-UR1LL-6,Mix,1.012686
+Proxy,R2-UR1LL-6,Rente,1.040149
+Proxy,R2-UR1LL-7,Equity,1
+Proxy,R2-UR1LL-7,Mix,1.016873
+Proxy,R2-UR1LL-7,Rente,1.053398
+Proxy,R2-UR1LL-8,Equity,1
+Proxy,R2-UR1LL-8,Mix,1.016873
+Proxy,R2-UR1LL-8,Rente,1.053398
+Proxy,R2-UR1LT-1,Equity,1
+Proxy,R2-UR1LT-1,Mix,0.981913
+Proxy,R2-UR1LT-1,Rente,0.943317
+Proxy,R2-UR1LT-2,Equity,1
+Proxy,R2-UR1LT-2,Mix,0.981913
+Proxy,R2-UR1LT-2,Rente,0.943317
+Proxy,R2-UR1LT-3,Equity,1
+Proxy,R2-UR1LT-3,Mix,0.986401
+Proxy,R2-UR1LT-3,Rente,0.957382
+Proxy,R2-UR1LT-4,Equity,1
+Proxy,R2-UR1LT-4,Mix,0.986401
+Proxy,R2-UR1LT-4,Rente,0.957382
+Proxy,R2-UR1LT-5,Equity,1
+Proxy,R2-UR1LT-5,Mix,1.012686
+Proxy,R2-UR1LT-5,Rente,1.040149
+Proxy,R2-UR1LT-6,Equity,1
+Proxy,R2-UR1LT-6,Mix,1.012686
+Proxy,R2-UR1LT-6,Rente,1.040149
+Proxy,R2-UR1LT-7,Equity,1
+Proxy,R2-UR1LT-7,Mix,1.016873
+Proxy,R2-UR1LT-7,Rente,1.053398
+Proxy,R2-UR1LT-8,Equity,1
+Proxy,R2-UR1LT-8,Mix,1.016873
+Proxy,R2-UR1LT-8,Rente,1.053398
+Proxy,R2-UR3C-1,Equity,1
+Proxy,R2-UR3C-1,Mix,0.986401
+Proxy,R2-UR3C-1,Rente,0.957382
+Proxy,R2-UR3C-2,Equity,1
+Proxy,R2-UR3C-2,Mix,0.986401
+Proxy,R2-UR3C-2,Rente,0.957382
+Proxy,R2-UR3C-3,Equity,1
+Proxy,R2-UR3C-3,Mix,0.990889
+Proxy,R2-UR3C-3,Rente,0.971446
+Proxy,R2-UR3C-4,Equity,1
+Proxy,R2-UR3C-4,Mix,0.990889
+Proxy,R2-UR3C-4,Rente,0.971446
+Proxy,R2-UR3C-5,Equity,1
+Proxy,R2-UR3C-5,Mix,1.0085
+Proxy,R2-UR3C-5,Rente,1.0269
+Proxy,R2-UR3C-6,Equity,1
+Proxy,R2-UR3C-6,Mix,1.0085
+Proxy,R2-UR3C-6,Rente,1.0269
+Proxy,R2-UR3C-7,Equity,1
+Proxy,R2-UR3C-7,Mix,1.012686
+Proxy,R2-UR3C-7,Rente,1.040149
+Proxy,R2-UR3C-8,Equity,1
+Proxy,R2-UR3C-8,Mix,1.012686
+Proxy,R2-UR3C-8,Rente,1.040149
+Proxy,R2-UR3P-1,Equity,1
+Proxy,R2-UR3P-1,Mix,0.986401
+Proxy,R2-UR3P-1,Rente,0.957382
+Proxy,R2-UR3P-2,Equity,1
+Proxy,R2-UR3P-2,Mix,0.986401
+Proxy,R2-UR3P-2,Rente,0.957382
+Proxy,R2-UR3P-3,Equity,1
+Proxy,R2-UR3P-3,Mix,0.990889
+Proxy,R2-UR3P-3,Rente,0.971446
+Proxy,R2-UR3P-4,Equity,1
+Proxy,R2-UR3P-4,Mix,0.990889
+Proxy,R2-UR3P-4,Rente,0.971446
+Proxy,R2-UR3P-5,Equity,1
+Proxy,R2-UR3P-5,Mix,1.0085
+Proxy,R2-UR3P-5,Rente,1.0269
+Proxy,R2-UR3P-6,Equity,1
+Proxy,R2-UR3P-6,Mix,1.0085
+Proxy,R2-UR3P-6,Rente,1.0269
+Proxy,R2-UR3P-7,Equity,1
+Proxy,R2-UR3P-7,Mix,1.012686
+Proxy,R2-UR3P-7,Rente,1.040149
+Proxy,R2-UR3P-8,Equity,1
+Proxy,R2-UR3P-8,Mix,1.012686
+Proxy,R2-UR3P-8,Rente,1.040149
+Proxy,R3_1,Equity,1
+Proxy,R3_1,Mix,0.997798
+Proxy,R3_1,Rente,0.997013
+Proxy,R3_2,Equity,1
+Proxy,R3_2,Mix,0.999117
+Proxy,R3_2,Rente,0.998802
+Proxy,R3_3,Equity,1
+Proxy,R3_3,Mix,0.999565
+Proxy,R3_3,Rente,0.99941
+Proxy,R3_4,Equity,1
+Proxy,R3_4,Mix,1.000364
+Proxy,R3_4,Rente,1.00041
+Proxy,R3_5,Equity,1
+Proxy,R3_5,Mix,1.000739
+Proxy,R3_5,Rente,1.000833
+Proxy,R3_6,Equity,1
+Proxy,R3_6,Mix,1.001842
+Proxy,R3_6,Rente,1.002076
+Proxy,R3_D,Equity,1
+Proxy,R3_D,Mix,0.998681
+Proxy,R3_D,Rente,0.998211
+Proxy,R3_U,Equity,1
+Proxy,R3_U,Mix,1.001103
+Proxy,R3_U,Rente,1.001243
+Proxy,R-R-1,Equity,1
+Proxy,R-R-1,Mix,1.050051
+Proxy,R-R-1,Rente,1.116702
+Proxy,R-R-2,Equity,1
+Proxy,R-R-2,Mix,1.087436
+Proxy,R-R-2,Rente,1.247016
+Proxy,R-R-3,Equity,1
+Proxy,R-R-3,Mix,1.037866
+Proxy,R-R-3,Rente,1.08969
+Proxy,R-R-4,Equity,1
+Proxy,R-R-4,Mix,1.065523
+Proxy,R-R-4,Rente,1.183895
+Proxy,R-R-5,Equity,1
+Proxy,R-R-5,Mix,0.932184
+Proxy,R-R-5,Rente,0.819036
+Proxy,R-R-6,Equity,1
+Proxy,R-R-6,Mix,0.957025
+Proxy,R-R-6,Rente,0.889843
+Proxy,R-R-7,Equity,1
+Proxy,R-R-7,Mix,0.910133
+Proxy,R-R-7,Rente,0.762021
+Proxy,R-R-8,Equity,1
+Proxy,R-R-8,Mix,0.942537
+Proxy,R-R-8,Rente,0.850945
+Proxy,UR1LL_1,Equity,1
+Proxy,UR1LL_1,Mix,1
+Proxy,UR1LL_1,Rente,1
+Proxy,UR1LL_2,Equity,1
+Proxy,UR1LL_2,Mix,1
+Proxy,UR1LL_2,Rente,1
+Proxy,UR1LL_3,Equity,1
+Proxy,UR1LL_3,Mix,1
+Proxy,UR1LL_3,Rente,1
+Proxy,UR1LL_4,Equity,1
+Proxy,UR1LL_4,Mix,1
+Proxy,UR1LL_4,Rente,1
+Proxy,UR1LL_5,Equity,1
+Proxy,UR1LL_5,Mix,1
+Proxy,UR1LL_5,Rente,1
+Proxy,UR1LL_6,Equity,1
+Proxy,UR1LL_6,Mix,1
+Proxy,UR1LL_6,Rente,1
+Proxy,UR1LT_1,Equity,1
+Proxy,UR1LT_1,Mix,1
+Proxy,UR1LT_1,Rente,1
+Proxy,UR1LT_2,Equity,1
+Proxy,UR1LT_2,Mix,1
+Proxy,UR1LT_2,Rente,1
+Proxy,UR1LT_3,Equity,1
+Proxy,UR1LT_3,Mix,1
+Proxy,UR1LT_3,Rente,1
+Proxy,UR1LT_4,Equity,1
+Proxy,UR1LT_4,Mix,1
+Proxy,UR1LT_4,Rente,1
+Proxy,UR1LT_5,Equity,1
+Proxy,UR1LT_5,Mix,1
+Proxy,UR1LT_5,Rente,1
+Proxy,UR1LT_6,Equity,1
+Proxy,UR1LT_6,Mix,1
+Proxy,UR1LT_6,Rente,1
+Proxy,UR1ML_1,Equity,1
+Proxy,UR1ML_1,Mix,1
+Proxy,UR1ML_1,Rente,1
+Proxy,UR1ML_2,Equity,1
+Proxy,UR1ML_2,Mix,1
+Proxy,UR1ML_2,Rente,1
+Proxy,UR1ML_3,Equity,1
+Proxy,UR1ML_3,Mix,1
+Proxy,UR1ML_3,Rente,1
+Proxy,UR1ML_4,Equity,1
+Proxy,UR1ML_4,Mix,1
+Proxy,UR1ML_4,Rente,1
+Proxy,UR1ML_5,Equity,1
+Proxy,UR1ML_5,Mix,1
+Proxy,UR1ML_5,Rente,1
+Proxy,UR1ML_6,Equity,1
+Proxy,UR1ML_6,Mix,1
+Proxy,UR1ML_6,Rente,1
+Proxy,UR1MT_1,Equity,1
+Proxy,UR1MT_1,Mix,1
+Proxy,UR1MT_1,Rente,1
+Proxy,UR1MT_2,Equity,1
+Proxy,UR1MT_2,Mix,1
+Proxy,UR1MT_2,Rente,1
+Proxy,UR1MT_3,Equity,1
+Proxy,UR1MT_3,Mix,1
+Proxy,UR1MT_3,Rente,1
+Proxy,UR1MT_4,Equity,1
+Proxy,UR1MT_4,Mix,1
+Proxy,UR1MT_4,Rente,1
+Proxy,UR1MT_5,Equity,1
+Proxy,UR1MT_5,Mix,1
+Proxy,UR1MT_5,Rente,1
+Proxy,UR1MT_6,Equity,1
+Proxy,UR1MT_6,Mix,1
+Proxy,UR1MT_6,Rente,1
+Proxy,VA_1,Equity,1
+Proxy,VA_1,Mix,1
+Proxy,VA_1,Rente,1
+Proxy,VA_2,Equity,1
+Proxy,VA_2,Mix,1
+Proxy,VA_2,Rente,1
+Proxy,VA_3,Equity,1
+Proxy,VA_3,Mix,1
+Proxy,VA_3,Rente,1
+Proxy,VA_4,Equity,1
+Proxy,VA_4,Mix,1
+Proxy,VA_4,Rente,1
+Proxy,VA_5,Equity,1
+Proxy,VA_5,Mix,1
+Proxy,VA_5,Rente,1
+Proxy,VA_6,Equity,1
+Proxy,VA_6,Mix,1
+Proxy,VA_6,Rente,1
+Proxy,VA_7,Equity,1
+Proxy,VA_7,Mix,1
+Proxy,VA_7,Rente,1
+Proxy,VA_8,Equity,1
+Proxy,VA_8,Mix,1
+Proxy,VA_8,Rente,1
+Sensitivities,Combined 1-in-10 NL,Equity,1
+Sensitivities,Combined 1-in-10 NL,Mix,1
+Sensitivities,Combined 1-in-10 NL,Rente,1
+Sensitivities,Combined 1-in-10 Sk,Equity,1
+Sensitivities,Combined 1-in-10 Sk,Mix,1
+Sensitivities,Combined 1-in-10 Sk,Rente,1
+Sensitivities,Combined inflation interest rate +50bps,Equity,1
+Sensitivities,Combined inflation interest rate +50bps,Mix,0.986051
+Sensitivities,Combined inflation interest rate +50bps,Rente,0.962243
+Sensitivities,Expense Inflation +50bps,Equity,1
+Sensitivities,Expense Inflation +50bps,Mix,1
+Sensitivities,Expense Inflation +50bps,Rente,1
+Sensitivities,Expense Inflation -50bps,Equity,1
+Sensitivities,Expense Inflation -50bps,Mix,1
+Sensitivities,Expense Inflation -50bps,Rente,1
+Sensitivities,IAS19 +50bps,Equity,1
+Sensitivities,IAS19 +50bps,Mix,1
+Sensitivities,IAS19 +50bps,Rente,1
+Sensitivities,IAS19 -50bps,Equity,1
+Sensitivities,IAS19 -50bps,Mix,1
+Sensitivities,IAS19 -50bps,Rente,1
+Sensitivities,Inflation +50bps,Equity,1
+Sensitivities,Inflation +50bps,Mix,1
+Sensitivities,Inflation +50bps,Rente,1
+Sensitivities,Inflation -50bps,Equity,1
+Sensitivities,Inflation -50bps,Mix,1
+Sensitivities,Inflation -50bps,Rente,1
+Sensitivities,IR1 - 90 NL,Equity,1
+Sensitivities,IR1 - 90 NL,Mix,1
+Sensitivities,IR1 - 90 NL,Rente,1
+Sensitivities,IR1 - 97.5 NL,Equity,1
+Sensitivities,IR1 - 97.5 NL,Mix,1
+Sensitivities,IR1 - 97.5 NL,Rente,1
+Sensitivities,IR1 ABS +50bps,Equity,1
+Sensitivities,IR1 ABS +50bps,Mix,1
+Sensitivities,IR1 ABS +50bps,Rente,1
+Sensitivities,IR1 ABS -50bps,Equity,1
+Sensitivities,IR1 ABS -50bps,Mix,1
+Sensitivities,IR1 ABS -50bps,Rente,1
+Sensitivities,IR1 Corp +50bps,Equity,1
+Sensitivities,IR1 Corp +50bps,Mix,1
+Sensitivities,IR1 Corp +50bps,Rente,1
+Sensitivities,IR1 Corp +50bps (ex VA),Equity,1
+Sensitivities,IR1 Corp +50bps (ex VA),Mix,1
+Sensitivities,IR1 Corp +50bps (ex VA),Rente,1
+Sensitivities,IR1 Corp -50bps,Equity,1
+Sensitivities,IR1 Corp -50bps,Mix,1
+Sensitivities,IR1 Corp -50bps,Rente,1
+Sensitivities,IR1 Corp -50bps (ex VA),Equity,1
+Sensitivities,IR1 Corp -50bps (ex VA),Mix,1
+Sensitivities,IR1 Corp -50bps (ex VA),Rente,1
+Sensitivities,IR1 Gov +50bps,Equity,1
+Sensitivities,IR1 Gov +50bps,Mix,1
+Sensitivities,IR1 Gov +50bps,Rente,1
+Sensitivities,IR1 Gov +50bps (ex VA),Equity,1
+Sensitivities,IR1 Gov +50bps (ex VA),Mix,1
+Sensitivities,IR1 Gov +50bps (ex VA),Rente,1
+Sensitivities,IR1 Gov -50bps,Equity,1
+Sensitivities,IR1 Gov -50bps,Mix,1
+Sensitivities,IR1 Gov -50bps,Rente,1
+Sensitivities,IR1 Gov -50bps (ex VA),Equity,1
+Sensitivities,IR1 Gov -50bps (ex VA),Mix,1
+Sensitivities,IR1 Gov -50bps (ex VA),Rente,1
+Sensitivities,IR1 Mortg +50bps,Equity,1
+Sensitivities,IR1 Mortg +50bps,Mix,1
+Sensitivities,IR1 Mortg +50bps,Rente,1
+Sensitivities,IR1 Mortg -50bps,Equity,1
+Sensitivities,IR1 Mortg -50bps,Mix,1
+Sensitivities,IR1 Mortg -50bps,Rente,1
+Sensitivities,IR1 Ngov +50bps,Equity,1
+Sensitivities,IR1 Ngov +50bps,Mix,1
+Sensitivities,IR1 Ngov +50bps,Rente,1
+Sensitivities,IR1 Ngov +50bps (ex VA),Equity,1
+Sensitivities,IR1 Ngov +50bps (ex VA),Mix,1
+Sensitivities,IR1 Ngov +50bps (ex VA),Rente,1
+Sensitivities,IR1 Ngov -50bps,Equity,1
+Sensitivities,IR1 Ngov -50bps,Mix,1
+Sensitivities,IR1 Ngov -50bps,Rente,1
+Sensitivities,IR1 Ngov -50bps (ex VA),Equity,1
+Sensitivities,IR1 Ngov -50bps (ex VA),Mix,1
+Sensitivities,IR1 Ngov -50bps (ex VA),Rente,1
+Sensitivities,IR1 VA +5bps,Equity,1
+Sensitivities,IR1 VA +5bps,Mix,1
+Sensitivities,IR1 VA +5bps,Rente,1
+Sensitivities,IR1 VA -5bps,Equity,1
+Sensitivities,IR1 VA -5bps,Mix,1
+Sensitivities,IR1 VA -5bps,Rente,1
+Sensitivities,IR2 +10%,Equity,1.1
+Sensitivities,IR2 +10%,Mix,1.034128
+Sensitivities,IR2 +10%,Rente,1
+Sensitivities,IR2 +25%,Equity,1.25
+Sensitivities,IR2 +25%,Mix,1.08532
+Sensitivities,IR2 +25%,Rente,1
+Sensitivities,IR2 -10%,Equity,0.9
+Sensitivities,IR2 -10%,Mix,0.965872
+Sensitivities,IR2 -10%,Rente,1
+Sensitivities,IR2 -25%,Equity,0.75
+Sensitivities,IR2 -25%,Mix,0.91468
+Sensitivities,IR2 -25%,Rente,1
+Sensitivities,IR2 -40%,Equity,0.6
+Sensitivities,IR2 -40%,Mix,0.863488
+Sensitivities,IR2 -40%,Rente,1
+Sensitivities,IR3 Amvest -5%,Equity,1
+Sensitivities,IR3 Amvest -5%,Mix,1
+Sensitivities,IR3 Amvest -5%,Rente,1
+Sensitivities,IR5 +5%,Equity,1
+Sensitivities,IR5 +5%,Mix,1
+Sensitivities,IR5 +5%,Rente,1
+Sensitivities,IR5 -5%,Equity,1
+Sensitivities,IR5 -5%,Mix,1
+Sensitivities,IR5 -5%,Rente,1
+Sensitivities,LACDT -25%,Equity,1
+Sensitivities,LACDT -25%,Mix,1
+Sensitivities,LACDT -25%,Rente,1
+Sensitivities,Morbidity 1-in-10 Sc,Equity,1
+Sensitivities,Morbidity 1-in-10 Sc,Mix,1
+Sensitivities,Morbidity 1-in-10 Sc,Rente,1
+Sensitivities,MR1 +100bps,Equity,1
+Sensitivities,MR1 +100bps,Mix,0.972102
+Sensitivities,MR1 +100bps,Rente,0.924485
+Sensitivities,MR1 +200bps,Equity,1
+Sensitivities,MR1 +200bps,Mix,0.944521
+Sensitivities,MR1 +200bps,Rente,0.849872
+Sensitivities,MR1 +50bps,Equity,1
+Sensitivities,MR1 +50bps,Mix,0.986051
+Sensitivities,MR1 +50bps,Rente,0.962243
+Sensitivities,MR1 -100bps,Equity,1
+Sensitivities,MR1 -100bps,Mix,1.028218
+Sensitivities,MR1 -100bps,Rente,1.076431
+Sensitivities,MR1 -50bps,Equity,1
+Sensitivities,MR1 -50bps,Mix,1.014109
+Sensitivities,MR1 -50bps,Rente,1.038215
+Sensitivities,MR1 Steep,Equity,1
+Sensitivities,MR1 Steep,Mix,1
+Sensitivities,MR1 Steep,Rente,1
+Sensitivities,MR1 Steep +10,Equity,1
+Sensitivities,MR1 Steep +10,Mix,1
+Sensitivities,MR1 Steep +10,Rente,1
+Sensitivities,MR3 -15%,Equity,1
+Sensitivities,MR3 -15%,Mix,0.990695
+Sensitivities,MR3 -15%,Rente,1
+Sensitivities,Non-FI -25% (ex Amvest),Equity,0.75
+Sensitivities,Non-FI -25% (ex Amvest),Mix,0.91468
+Sensitivities,Non-FI -25% (ex Amvest),Rente,1
+Sensitivities,SIIreview.RM1(coc6.lamda975.floor50),Equity,1
+Sensitivities,SIIreview.RM1(coc6.lamda975.floor50),Mix,1
+Sensitivities,SIIreview.RM1(coc6.lamda975.floor50),Rente,1
+Sensitivities,SIIreview.RM2(coc5.lamda975.floor0),Equity,1
+Sensitivities,SIIreview.RM2(coc5.lamda975.floor0),Mix,1
+Sensitivities,SIIreview.RM2(coc5.lamda975.floor0),Rente,1
+Sensitivities,SIIreview.RM2.VE10,Equity,1
+Sensitivities,SIIreview.RM2.VE10,Mix,1
+Sensitivities,SIIreview.RM2.VE10,Rente,1
+Sensitivities,SIIreview.RM2.VE10.MR1 +50bps,Equity,1
+Sensitivities,SIIreview.RM2.VE10.MR1 +50bps,Mix,0.986051
+Sensitivities,SIIreview.RM2.VE10.MR1 +50bps,Rente,0.962243
+Sensitivities,SIIreview.RM2.VE10.MR1 -50bps,Equity,1
+Sensitivities,SIIreview.RM2.VE10.MR1 -50bps,Mix,1.014109
+Sensitivities,SIIreview.RM2.VE10.MR1 -50bps,Rente,1.038215
+Sensitivities,SIIreview.RM2.VE10.MR1 Steep +10bps,Equity,1
+Sensitivities,SIIreview.RM2.VE10.MR1 Steep +10bps,Mix,1
+Sensitivities,SIIreview.RM2.VE10.MR1 Steep +10bps,Rente,1
+Sensitivities,SIIreview.RM2.VE10.SII-VA,Equity,1
+Sensitivities,SIIreview.RM2.VE10.SII-VA,Mix,1
+Sensitivities,SIIreview.RM2.VE10.SII-VA,Rente,1
+Sensitivities,SIIreview.RM2.VE10.UFR -15 bps,Equity,1
+Sensitivities,SIIreview.RM2.VE10.UFR -15 bps,Mix,1
+Sensitivities,SIIreview.RM2.VE10.UFR -15 bps,Rente,1
+Sensitivities,SIIreview.RM2.VE20,Equity,1
+Sensitivities,SIIreview.RM2.VE20,Mix,1
+Sensitivities,SIIreview.RM2.VE20,Rente,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Corp +50bps,Equity,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Corp +50bps,Mix,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Corp +50bps,Rente,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Corp -50bps,Equity,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Corp -50bps,Mix,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Corp -50bps,Rente,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Gov +50 bps,Equity,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Gov +50 bps,Mix,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Gov +50 bps,Rente,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Gov -50 bps,Equity,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Gov -50 bps,Mix,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Gov -50 bps,Rente,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Mortg +50 bps,Equity,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Mortg +50 bps,Mix,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Mortg +50 bps,Rente,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Mortg -50 bps,Equity,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Mortg -50 bps,Mix,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Mortg -50 bps,Rente,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Non-gov +50 bps,Equity,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Non-gov +50 bps,Mix,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Non-gov +50 bps,Rente,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Non-gov -50 bps,Equity,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Non-gov -50 bps,Mix,1
+Sensitivities,SIIreview.RM2.VE20.IR1 Non-gov -50 bps,Rente,1
+Sensitivities,SIIreview.RM2.VE20.MR1 +50bps,Equity,1
+Sensitivities,SIIreview.RM2.VE20.MR1 +50bps,Mix,0.986051
+Sensitivities,SIIreview.RM2.VE20.MR1 +50bps,Rente,0.962243
+Sensitivities,SIIreview.RM2.VE20.MR1 -50bps,Equity,1
+Sensitivities,SIIreview.RM2.VE20.MR1 -50bps,Mix,1.014109
+Sensitivities,SIIreview.RM2.VE20.MR1 -50bps,Rente,1.038215
+Sensitivities,SIIreview.RM2.VE20.MR1 Steep +10bps,Equity,1
+Sensitivities,SIIreview.RM2.VE20.MR1 Steep +10bps,Mix,1
+Sensitivities,SIIreview.RM2.VE20.MR1 Steep +10bps,Rente,1
+Sensitivities,SIIreview.RM2.VE20.UFR -15 bps,Equity,1
+Sensitivities,SIIreview.RM2.VE20.UFR -15 bps,Mix,1
+Sensitivities,SIIreview.RM2.VE20.UFR -15 bps,Rente,1
+Sensitivities,SIIreview.RM2.VE20.VA +5 bps,Equity,1
+Sensitivities,SIIreview.RM2.VE20.VA +5 bps,Mix,1
+Sensitivities,SIIreview.RM2.VE20.VA +5 bps,Rente,1
+Sensitivities,SIIreview.RM2.VE20.VA -5 bps,Equity,1
+Sensitivities,SIIreview.RM2.VE20.VA -5 bps,Mix,1
+Sensitivities,SIIreview.RM2.VE20.VA -5 bps,Rente,1
+Sensitivities,UFR +15 bps,Equity,1
+Sensitivities,UFR +15 bps,Mix,1
+Sensitivities,UFR +15 bps,Rente,1
+Sensitivities,UFR -15 bps,Equity,1
+Sensitivities,UFR -15 bps,Mix,1
+Sensitivities,UFR -15 bps,Rente,1
+Sensitivities,UFR -50 bps,Equity,1
+Sensitivities,UFR -50 bps,Mix,1
+Sensitivities,UFR -50 bps,Rente,1
+Sensitivities,UR1 +5%,Equity,1
+Sensitivities,UR1 +5%,Mix,1
+Sensitivities,UR1 +5%,Rente,1
+Sensitivities,UR1 -10%,Equity,1
+Sensitivities,UR1 -10%,Mix,1
+Sensitivities,UR1 -10%,Rente,1
+Sensitivities,UR1 -5%,Equity,1
+Sensitivities,UR1 -5%,Mix,1
+Sensitivities,UR1 -5%,Rente,1
+Sensitivities,UR2C +100%,Equity,1
+Sensitivities,UR2C +100%,Mix,1
+Sensitivities,UR2C +100%,Rente,1
+Sensitivities,UR2P +10%,Equity,1
+Sensitivities,UR2P +10%,Mix,1
+Sensitivities,UR2P +10%,Rente,1
+Sensitivities,UR3 Insurance Lapse +20%,Equity,1
+Sensitivities,UR3 Insurance Lapse +20%,Mix,1
+Sensitivities,UR3 Insurance Lapse +20%,Rente,1
+Sensitivities,UR3 Mort Prepayment +20%,Equity,1
+Sensitivities,UR3 Mort Prepayment +20%,Mix,1
+Sensitivities,UR3 Mort Prepayment +20%,Rente,1
+Sensitivities,UR4P +10%,Equity,1
+Sensitivities,UR4P +10%,Mix,1
+Sensitivities,UR4P +10%,Rente,1
+Sensitivities,UR5 +5%,Equity,1
+Sensitivities,UR5 +5%,Mix,1
+Sensitivities,UR5 +5%,Rente,1

@@ -1,0 +1,112 @@
+fileid,assumptionid,assumptionname,domain,ValidFrom,ValidTo
+4863,496,UR1 Population Mortality Shockfactors,SAD,2022-12-31 00:00:00,2023-04-25 23:59:59
+3668,623,Life_RAFM_lapse_shock_domain,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+5250,1223,NL_Life_IFRS17_Input_Table,Finance Information Management,2022-07-01 00:00:00,2030-01-01 23:59:59
+4913,588,UR1_Experience_factors_IL_shock,SAD,2022-12-31 00:00:00,2023-11-30 23:59:59
+2573,799,NL_Life_RAFM_commclawback,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+2561,613,Life_RAFM_product_features_DAL_perc,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+4677,673,pup_mult_sa,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+2552,597,Life_RAFM_assump_curve_info,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+3786,683,UR3c Lapse Contagion Shock IFRS17,SAD,2021-12-30 00:00:00,2023-11-30 23:59:59
+2550,596,Life_RAFM_Index_starting_values,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+5063,406,UR5 BE BLL maintenance expenses,SAD,2022-12-31 00:00:00,2023-06-29 23:59:59
+4686,667,lapse_mult_sa,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+3676,914,NL_Life_RAFM_inv_ret_fund_AVN,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+4914,44,UR1_Experience_factors_IL_BE,SAD,2022-12-31 00:00:00,2023-11-30 23:59:59
+5572,984,Life_RAFM_NL_Instruments,Finance Information Management,2023-01-01 00:00:00,2030-01-01 23:59:59
+4693,663,lapse_mult_polyr,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+4821,822,Mortgages_CPR_settings_fixed,SAD,2022-12-31 00:00:00,2023-12-30 23:59:59
+2555,604,Life_RAFM_ESG_fund_return_types,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+5460,995,Aegon_Life_Weighted_Average_Discount_Rates,SAD,2023-03-31 00:00:00,2023-03-31 23:59:59
+2553,599,Life_RAFM_benchmark_bonds,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+4688,665,lapse_mult_remyrs,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+4679,671,pup_mult_remyrs,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+2567,618,Life_RAFM_static,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+3993,603,Life_RAFM_funds,Finance Information Management,2021-12-31 00:00:00,2030-12-31 23:59:59
+5735,912,NL_Life_RAFM_Fund_table_AVN,Finance Information Management,2023-01-01 00:00:00,2030-01-31 23:59:59
+3136,797,UR1 Experience Factors Individual Life Shock - Gender neutral,SAD,2021-11-30 00:00:00,2023-11-30 23:59:59
+4676,674,pup_mult_fv,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+5762,182,Run_specifications_non_linear_models-EF_SII_IFRS4_I17H,SAD,2023-03-31 00:00:00,2023-03-31 23:59:59
+5649,442,Interest_LAT_and_EF,SAD,2023-03-31 00:00:00,2023-03-31 23:59:59
+2545,572,NL_Life_RAFM_Fund_Table,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+5073,20,GA investment expense assumption,SAD,2022-12-31 00:00:00,2023-11-30 23:59:59
+5562,570,NL_Life_RAFM_staatsleningen_add_return,Finance Information Management,2023-01-01 00:00:00,2030-01-01 23:59:59
+2591,676,pup_mult_ind,SAD,2021-12-31 00:00:00,2023-11-30 23:59:59
+2568,620,Life_RAFM_commclaw,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+1942,598,Life_RAFM_B&H_File_Structure,Finance Information Management,2020-01-01 00:00:00,2030-01-01 23:59:59
+5814,447,Interest_DNB_LTG,SAD,2023-03-31 00:00:00,2023-03-31 23:59:59
+5573,1052,NL_RAFM_mort_shock_p_sens,Finance Information Management,2023-01-01 00:00:00,2030-01-01 23:59:59
+2725,615,Life_RAFM_coverage_features,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+4687,666,lapse_mult_prem,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+2056,590,Life_RAFM_pup-prod_cd_tbl,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+4675,675,Lapse_pp,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+3913,1124,NL_Life_RAFM_Instruments_group_LAT,Finance Information Management,2021-12-31 00:00:00,2030-12-31 23:59:59
+1956,619,Life_RAFM_mort_mult_meth,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+2558,609,Life_RAFM_product_autoswitch,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+5734,850,NL_Life_Multi_Other_Fund_Costs,Finance Information Management,2023-01-01 00:00:00,2030-01-31 23:59:59
+5563,594,Life_RAFM_Instruments,Finance Information Management,2023-01-01 00:00:00,2030-01-01 23:59:59
+5565,610,Life_RAFM_product_category,Finance Information Management,2023-01-01 00:00:00,2030-01-01 23:59:59
+2565,614,Life_RAFM_percentage_slotwinst,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+4674,677,pup_rates,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+2531,568,NL_Life_RAFM_index_profit,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+5637,441,Interest_Market,SAD,2023-03-31 00:00:00,2023-03-31 23:59:59
+2722,800,NL_Life_RAFM_UVL_CPR,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+2068,494,NL_Life_Multi_Expenses,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+5056,669,pup_mult_polyr,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+5714,445,Interest_SII_EIOPA,SAD,2023-03-31 00:00:00,2023-03-31 23:59:59
+5115,684,Interest_UFR_CRA_VA_drag,SAD,2023-03-31 00:00:00,2023-03-31 23:59:59
+5677,449,Starting_fund_values,SAD,2023-03-31 00:00:00,2023-03-31 23:59:59
+2522,495,NL_Life_Multi_Other_Fund_Costs,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+2585,679,lapse_mult_ind,SAD,2021-12-31 00:00:00,2023-11-30 23:59:59
+4680,672,pup_mult_prem,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+4851,7,UR1 Population Mortality BE,SAD,2022-12-31 00:00:00,2023-11-30 23:59:59
+4689,664,lapse_mult_age,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+5453,565,koers_safe_rendement,SAD Input,2023-03-01 00:00:00,2023-03-31 23:59:59
+5750,443,Interest_SII_Aegon,SAD,2023-03-31 00:00:00,2023-03-31 23:59:59
+4908,438,UR1 Experience Factors Individual Life Shock IFRS17,SAD,2022-12-31 00:00:00,2023-11-30 23:59:59
+5581,706,Life_ORV_paid_up_base,Finance Information Management,2023-01-01 00:00:00,2030-01-01 23:59:59
+5663,1001,NL_Life_RAFM_koersen_file,Finance Information Management,2023-03-31 00:00:00,2023-04-03 23:59:59
+5749,1261,SensitivitySAD_Parameters,SAD,2023-03-31 00:00:00,2023-03-31 23:59:59
+2572,661,Life_RAFM_Lapse_base,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+3787,10,UR1 Mortality Contagion Shock,SAD,2021-12-31 00:00:00,2023-11-30 23:59:59
+2051,589,Life_RAFM_lapse_prod_cd_tb,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+5661,658,Life_RAFM_Currency,Finance Information Management,2023-03-31 00:00:00,2023-03-31 23:59:59
+1255,750,UR3c Standard Formula,SAD,2020-12-31 00:00:00,2023-11-30 23:59:59
+2534,569,NL_Life_RAFM_Surrender_value_meth,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+2548,591,Life_RAFM_pup_base_prod_cd_tbl,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+4859,70,UR1 Experience Factors Group Pensions Best Estimate,SAD,2022-12-31 00:00:00,2023-11-30 23:59:59
+4673,678,pup_rates_Z,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+1972,911,NL_Life_RAFM_mort_res_tables,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+5662,933,Interest_IFRS17,SAD,2023-03-31 00:00:00,2023-03-31 23:59:59
+3669,595,Life_RAFM_mort_shock_products,Finance Information Management,2021-01-01 00:00:00,2030-01-01 23:59:59
+2570,622,Life_RAFM_inv_ret_fund_mapping,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+2569,621,Life_RAFM_pup_mult_prod_cd_tbl,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+2053,662,Life_RAFM_Mort_Base,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+5564,608,LIFE_RAFM_waiverpremium,Finance Information Management,2023-01-01 00:00:00,2030-01-01 23:59:59
+1256,751,UR3p Policyholder Behaviour Shock,SAD,2020-12-31 00:00:00,2023-11-30 23:59:59
+5666,953,Interest_SIIsensitivities,SAD,2023-03-31 00:00:00,2023-03-31 23:59:59
+2930,680,UR5 Expense Shock,SAD,2021-12-31 00:00:00,2023-11-30 23:59:59
+2547,574,NL_Life_RAFM_profit_prem_sharing,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+2795,749,SA management fee and rebate BLL,SAD,2021-12-31 00:00:00,2023-11-30 23:59:59
+5577,702,Life_ORV_lapse_base,Finance Information Management,2023-01-01 00:00:00,2030-01-01 23:59:59
+5652,536,IAS19 Discounting Curves & Flat Rate,SAD,2023-03-31 00:00:00,2023-03-31 23:59:59
+2057,611,Life_RAFM_product_features,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+2560,612,Life_RAFM_product_features_DAL_deffer,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+4684,668,lapse_mult_fv,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+5636,11,UR1 Mortality permanent shock,SAD,2022-12-31 00:00:00,2025-11-30 23:59:59
+2530,567,NL_Life_RAFM_zondersterfte,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+5233,910,NL_Life_AVN_Age_Adj,Finance Information Management,2010-01-01 00:00:00,2031-01-01 23:59:59
+5571,805,Life_RAFM_inv_ret_fund,Finance Information Management,2023-01-01 00:00:00,2030-01-01 23:59:59
+2735,690,Life_RAFM_mort_mult_products,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+2529,566,NL_Life_RAFM_Commission,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+2546,573,NL_Life_RAFM_profit_prem_pc,Finance Information Management,2021-12-01 00:00:00,2030-12-01 23:59:59
+4856,281,UR1 Population Mortality shockfactors IFRS17,SAD,2022-12-31 00:00:00,2023-11-30 23:59:59
+2727,985,Life_RAFM_Fund_Table_Axent,Finance Information Management,2019-12-31 00:00:00,2030-01-01 23:59:59
+2556,605,Life_RAFM_premium_loading,Finance Information Management,2021-12-01 00:00:00,2030-12-31 23:59:59
+4760,802,NL_Life_RAFM_mort_riskprem,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+2566,616,Life_RAFM_surv_prof_withdrawal_rates,Finance Information Management,2021-12-01 00:00:00,2030-12-01 23:59:59
+4681,670,pup_mult_age,SAD,2022-12-30 00:00:00,2023-11-30 23:59:59
+3645,934,NL_Life_RAFM_AVN_Mort,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+5789,1204,NL_Life_Verzekeringen_AVN,Finance Information Management,2023-03-31 00:00:00,2023-03-31 23:59:59
+2038,932,NL_Life_RAFM_safe_system,Finance Information Management,2010-01-01 00:00:00,2030-01-01 23:59:59
+5566,617,Life_RAFM_charge_types,Finance Information Management,2023-01-01 00:00:00,2030-01-01 23:59:59

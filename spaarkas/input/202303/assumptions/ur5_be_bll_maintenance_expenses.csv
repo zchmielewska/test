@@ -1,0 +1,699 @@
+name,comment,number,value
+Cash Flow Timing,SII,1,0.5
+Generic (Pension + Life) - not outsourcable,SII,2,0
+Percentage Pension at start,SII,3,0.698956
+Time span allocation from Life to Pension,SII,4,49
+Fixed costs other (Only Life),SII,5,0
+Cost per policy Life Individual2022,SII,6,47.685875
+Cost per policy Life Individual2023,SII,7,44.852606
+Cost per policy Life Individual2024,SII,8,44.218833
+Cost per policy Life Individual2025,SII,9,45.6387
+Cost per policy Life Individual2026,SII,10,49.791438
+Cost per policy Life Individual2027,SII,11,44.266355
+Cost per policy Life Individual2028,SII,12,46.647112
+Apply delayed scalability,SII,13,1
+Delay in scalability from year,SII,14,2029
+No of years delay,SII,15,3
+Correct for inflation,SII,16,1
+Social plan costs as % of decrease in yearly costs,SII,17,1
+Outsourcing after 2039 variable costs,SII,18,1
+Outsourcing amount fixed,SII,19,0
+Start year no inflation outsourcing,SII,20,2100
+Percentage level risk - member,SII,21,0.1
+Percentage inflation risk - member,SII,22,0.01
+Level shock outsourcing IBM from year,SII,23,2040
+Apply level shock to outsourcing costs,SII,24,0
+Percentage partial LP bucket,LAT,25,0.75
+Cash Flow Timing,LAT,26,0.5
+Generic (Pension + Life) - not outsourcable,LAT,27,0
+Percentage Pension at start,LAT,28,0.698956
+Time span allocation from Life to Pension,LAT,29,49
+Fixed costs other (Only Life),LAT,30,0
+Cost per policy Life Individual2022,LAT,31,47.61
+Cost per policy Life Individual2023,LAT,32,42.87
+Cost per policy Life Individual2024,LAT,33,42.3
+Cost per policy Life Individual2025,LAT,34,43.78
+Cost per policy Life Individual2026,LAT,35,47.96
+Cost per policy Life Individual2027,LAT,36,42.47
+Cost per policy Life Individual2028,LAT,37,44.88
+Apply delayed scalability,LAT,38,1
+Delay in scalability from year,LAT,39,2029
+No of years delay,LAT,40,3
+Correct for inflation,LAT,41,1
+Social plan costs as % of decrease in yearly costs,LAT,42,1
+Outsourcing after 2039 variable costs,LAT,43,1
+Outsourcing amount fixed,LAT,44,0
+Start year no inflation outsourcing,LAT,45,2100
+Percentage level risk - member,LAT,46,0.1
+Percentage inflation risk - member,LAT,47,0
+Level shock outsourcing IBM from year,LAT,48,2040
+Apply level shock to outsourcing costs,LAT,49,0
+IFRS17 - 2022,extra project costs input,50,500000
+IFRS17 - 2023,extra project costs input,51,1500000
+IFRS17 - 2024,extra project costs input,52,1500000
+IFRS17 - 2025,extra project costs input,53,575973
+IFRS17 - 2026,extra project costs input,54,0
+IFRS17 - 2027,extra project costs input,55,0
+IFRS17 - 2028,extra project costs input,56,0
+IFRS17 - 2029,extra project costs input,57,0
+IFRS17 - 2030,extra project costs input,58,0
+IFRS17 - 2031,extra project costs input,59,0
+IFRS17 - 2032,extra project costs input,60,0
+IFRS17 - 2033,extra project costs input,61,0
+IFRS17 - 2034,extra project costs input,62,0
+IFRS17 - 2035,extra project costs input,63,0
+IFRS17 - 2036,extra project costs input,64,0
+IFRS17 - 2037,extra project costs input,65,0
+IFRS17 - 2038,extra project costs input,66,0
+IFRS17 - 2039,extra project costs input,67,0
+IFRS17 - 2040,extra project costs input,68,0
+IFRS17 - 2041,extra project costs input,69,0
+IFRS17 - 2042,extra project costs input,70,0
+IFRS17 - 2043,extra project costs input,71,0
+IFRS17 - 2044,extra project costs input,72,0
+IFRS17 - 2045,extra project costs input,73,0
+IFRS17 - 2046,extra project costs input,74,0
+IFRS17 - 2047,extra project costs input,75,0
+IFRS17 - 2048,extra project costs input,76,0
+IFRS17 - 2049,extra project costs input,77,0
+IFRS17 - 2050,extra project costs input,78,0
+IFRS17 - 2051,extra project costs input,79,0
+IFRS17 - 2052,extra project costs input,80,0
+IFRS17 - 2053,extra project costs input,81,0
+IFRS17 - 2054,extra project costs input,82,0
+IFRS17 - 2055,extra project costs input,83,0
+IFRS17 - 2056,extra project costs input,84,0
+IFRS17 - 2057,extra project costs input,85,0
+IFRS17 - 2058,extra project costs input,86,0
+IFRS17 - 2059,extra project costs input,87,0
+IFRS17 - 2060,extra project costs input,88,0
+IFRS17 - 2061,extra project costs input,89,0
+IFRS17 - 2062,extra project costs input,90,0
+IFRS17 - 2063,extra project costs input,91,0
+IFRS17 - 2064,extra project costs input,92,0
+IFRS17 - 2065,extra project costs input,93,0
+IFRS17 - 2066,extra project costs input,94,0
+IFRS17 - 2067,extra project costs input,95,0
+IFRS17 - 2068,extra project costs input,96,0
+IFRS17 - 2069,extra project costs input,97,0
+IFRS17 - 2070,extra project costs input,98,0
+IFRS17 - 2071,extra project costs input,99,0
+IFRS17 - 2072,extra project costs input,100,0
+IFRS17 - 2073,extra project costs input,101,0
+IFRS17 - 2074,extra project costs input,102,0
+IFRS17 - 2075,extra project costs input,103,0
+IFRS17 - 2076,extra project costs input,104,0
+IFRS17 - 2077,extra project costs input,105,0
+IFRS17 - 2078,extra project costs input,106,0
+IFRS17 - 2079,extra project costs input,107,0
+IFRS17 - 2080,extra project costs input,108,0
+IFRS17 - 2081,extra project costs input,109,0
+IFRS17 - 2082,extra project costs input,110,0
+IFRS17 - 2083,extra project costs input,111,0
+IFRS17 - 2084,extra project costs input,112,0
+IFRS17 - 2085,extra project costs input,113,0
+IFRS17 - 2086,extra project costs input,114,0
+IFRS17 - 2087,extra project costs input,115,0
+IFRS17 - 2088,extra project costs input,116,0
+IFRS17 - 2089,extra project costs input,117,0
+IFRS17 - 2090,extra project costs input,118,0
+IFRS17 - 2091,extra project costs input,119,0
+IFRS17 - 2092,extra project costs input,120,0
+IFRS17 - 2093,extra project costs input,121,0
+IFRS17 - 2094,extra project costs input,122,0
+IFRS17 - 2095,extra project costs input,123,0
+IFRS17 - 2096,extra project costs input,124,0
+IFRS17 - 2097,extra project costs input,125,0
+IFRS17 - 2098,extra project costs input,126,0
+IFRS17 - 2099,extra project costs input,127,0
+IFRS17 - 2100,extra project costs input,128,0
+IFRS17 - 2101,extra project costs input,129,0
+IFRS17 - 2102,extra project costs input,130,0
+Internal costs for set-up incl. VAT  - 2022,extra project costs input,131,3160587
+Internal costs for set-up incl. VAT  - 2023,extra project costs input,132,2313440
+Internal costs for set-up incl. VAT  - 2024,extra project costs input,133,2163440
+Internal costs for set-up incl. VAT  - 2025,extra project costs input,134,1064610
+Internal costs for set-up incl. VAT  - 2026,extra project costs input,135,0
+Internal costs for set-up incl. VAT  - 2027,extra project costs input,136,0
+Internal costs for set-up incl. VAT  - 2028,extra project costs input,137,0
+Internal costs for set-up incl. VAT  - 2029,extra project costs input,138,0
+Internal costs for set-up incl. VAT  - 2030,extra project costs input,139,0
+Internal costs for set-up incl. VAT  - 2031,extra project costs input,140,0
+Internal costs for set-up incl. VAT  - 2032,extra project costs input,141,0
+Internal costs for set-up incl. VAT  - 2033,extra project costs input,142,0
+Internal costs for set-up incl. VAT  - 2034,extra project costs input,143,0
+Internal costs for set-up incl. VAT  - 2035,extra project costs input,144,0
+Internal costs for set-up incl. VAT  - 2036,extra project costs input,145,0
+Internal costs for set-up incl. VAT  - 2037,extra project costs input,146,0
+Internal costs for set-up incl. VAT  - 2038,extra project costs input,147,0
+Internal costs for set-up incl. VAT  - 2039,extra project costs input,148,0
+Internal costs for set-up incl. VAT  - 2040,extra project costs input,149,0
+Internal costs for set-up incl. VAT  - 2041,extra project costs input,150,0
+Internal costs for set-up incl. VAT  - 2042,extra project costs input,151,0
+Internal costs for set-up incl. VAT  - 2043,extra project costs input,152,0
+Internal costs for set-up incl. VAT  - 2044,extra project costs input,153,0
+Internal costs for set-up incl. VAT  - 2045,extra project costs input,154,0
+Internal costs for set-up incl. VAT  - 2046,extra project costs input,155,0
+Internal costs for set-up incl. VAT  - 2047,extra project costs input,156,0
+Internal costs for set-up incl. VAT  - 2048,extra project costs input,157,0
+Internal costs for set-up incl. VAT  - 2049,extra project costs input,158,0
+Internal costs for set-up incl. VAT  - 2050,extra project costs input,159,0
+Internal costs for set-up incl. VAT  - 2051,extra project costs input,160,0
+Internal costs for set-up incl. VAT  - 2052,extra project costs input,161,0
+Internal costs for set-up incl. VAT  - 2053,extra project costs input,162,0
+Internal costs for set-up incl. VAT  - 2054,extra project costs input,163,0
+Internal costs for set-up incl. VAT  - 2055,extra project costs input,164,0
+Internal costs for set-up incl. VAT  - 2056,extra project costs input,165,0
+Internal costs for set-up incl. VAT  - 2057,extra project costs input,166,0
+Internal costs for set-up incl. VAT  - 2058,extra project costs input,167,0
+Internal costs for set-up incl. VAT  - 2059,extra project costs input,168,0
+Internal costs for set-up incl. VAT  - 2060,extra project costs input,169,0
+Internal costs for set-up incl. VAT  - 2061,extra project costs input,170,0
+Internal costs for set-up incl. VAT  - 2062,extra project costs input,171,0
+Internal costs for set-up incl. VAT  - 2063,extra project costs input,172,0
+Internal costs for set-up incl. VAT  - 2064,extra project costs input,173,0
+Internal costs for set-up incl. VAT  - 2065,extra project costs input,174,0
+Internal costs for set-up incl. VAT  - 2066,extra project costs input,175,0
+Internal costs for set-up incl. VAT  - 2067,extra project costs input,176,0
+Internal costs for set-up incl. VAT  - 2068,extra project costs input,177,0
+Internal costs for set-up incl. VAT  - 2069,extra project costs input,178,0
+Internal costs for set-up incl. VAT  - 2070,extra project costs input,179,0
+Internal costs for set-up incl. VAT  - 2071,extra project costs input,180,0
+Internal costs for set-up incl. VAT  - 2072,extra project costs input,181,0
+Internal costs for set-up incl. VAT  - 2073,extra project costs input,182,0
+Internal costs for set-up incl. VAT  - 2074,extra project costs input,183,0
+Internal costs for set-up incl. VAT  - 2075,extra project costs input,184,0
+Internal costs for set-up incl. VAT  - 2076,extra project costs input,185,0
+Internal costs for set-up incl. VAT  - 2077,extra project costs input,186,0
+Internal costs for set-up incl. VAT  - 2078,extra project costs input,187,0
+Internal costs for set-up incl. VAT  - 2079,extra project costs input,188,0
+Internal costs for set-up incl. VAT  - 2080,extra project costs input,189,0
+Internal costs for set-up incl. VAT  - 2081,extra project costs input,190,0
+Internal costs for set-up incl. VAT  - 2082,extra project costs input,191,0
+Internal costs for set-up incl. VAT  - 2083,extra project costs input,192,0
+Internal costs for set-up incl. VAT  - 2084,extra project costs input,193,0
+Internal costs for set-up incl. VAT  - 2085,extra project costs input,194,0
+Internal costs for set-up incl. VAT  - 2086,extra project costs input,195,0
+Internal costs for set-up incl. VAT  - 2087,extra project costs input,196,0
+Internal costs for set-up incl. VAT  - 2088,extra project costs input,197,0
+Internal costs for set-up incl. VAT  - 2089,extra project costs input,198,0
+Internal costs for set-up incl. VAT  - 2090,extra project costs input,199,0
+Internal costs for set-up incl. VAT  - 2091,extra project costs input,200,0
+Internal costs for set-up incl. VAT  - 2092,extra project costs input,201,0
+Internal costs for set-up incl. VAT  - 2093,extra project costs input,202,0
+Internal costs for set-up incl. VAT  - 2094,extra project costs input,203,0
+Internal costs for set-up incl. VAT  - 2095,extra project costs input,204,0
+Internal costs for set-up incl. VAT  - 2096,extra project costs input,205,0
+Internal costs for set-up incl. VAT  - 2097,extra project costs input,206,0
+Internal costs for set-up incl. VAT  - 2098,extra project costs input,207,0
+Internal costs for set-up incl. VAT  - 2099,extra project costs input,208,0
+Internal costs for set-up incl. VAT  - 2100,extra project costs input,209,0
+Internal costs for set-up incl. VAT  - 2101,extra project costs input,210,0
+Internal costs for set-up incl. VAT  - 2102,extra project costs input,211,0
+Extra investment costs - 2022,extra project costs input,212,320499.5818
+Extra investment costs - 2023,extra project costs input,213,37580.18825
+Extra investment costs - 2024,extra project costs input,214,0
+Extra investment costs - 2025,extra project costs input,215,0
+Extra investment costs - 2026,extra project costs input,216,0
+Extra investment costs - 2027,extra project costs input,217,0
+Extra investment costs - 2028,extra project costs input,218,0
+Extra investment costs - 2029,extra project costs input,219,0
+Extra investment costs - 2030,extra project costs input,220,0
+Extra investment costs - 2031,extra project costs input,221,0
+Extra investment costs - 2032,extra project costs input,222,0
+Extra investment costs - 2033,extra project costs input,223,0
+Extra investment costs - 2034,extra project costs input,224,0
+Extra investment costs - 2035,extra project costs input,225,0
+Extra investment costs - 2036,extra project costs input,226,0
+Extra investment costs - 2037,extra project costs input,227,0
+Extra investment costs - 2038,extra project costs input,228,0
+Extra investment costs - 2039,extra project costs input,229,0
+Extra investment costs - 2040,extra project costs input,230,0
+Extra investment costs - 2041,extra project costs input,231,0
+Extra investment costs - 2042,extra project costs input,232,0
+Extra investment costs - 2043,extra project costs input,233,0
+Extra investment costs - 2044,extra project costs input,234,0
+Extra investment costs - 2045,extra project costs input,235,0
+Extra investment costs - 2046,extra project costs input,236,0
+Extra investment costs - 2047,extra project costs input,237,0
+Extra investment costs - 2048,extra project costs input,238,0
+Extra investment costs - 2049,extra project costs input,239,0
+Extra investment costs - 2050,extra project costs input,240,0
+Extra investment costs - 2051,extra project costs input,241,0
+Extra investment costs - 2052,extra project costs input,242,0
+Extra investment costs - 2053,extra project costs input,243,0
+Extra investment costs - 2054,extra project costs input,244,0
+Extra investment costs - 2055,extra project costs input,245,0
+Extra investment costs - 2056,extra project costs input,246,0
+Extra investment costs - 2057,extra project costs input,247,0
+Extra investment costs - 2058,extra project costs input,248,0
+Extra investment costs - 2059,extra project costs input,249,0
+Extra investment costs - 2060,extra project costs input,250,0
+Extra investment costs - 2061,extra project costs input,251,0
+Extra investment costs - 2062,extra project costs input,252,0
+Extra investment costs - 2063,extra project costs input,253,0
+Extra investment costs - 2064,extra project costs input,254,0
+Extra investment costs - 2065,extra project costs input,255,0
+Extra investment costs - 2066,extra project costs input,256,0
+Extra investment costs - 2067,extra project costs input,257,0
+Extra investment costs - 2068,extra project costs input,258,0
+Extra investment costs - 2069,extra project costs input,259,0
+Extra investment costs - 2070,extra project costs input,260,0
+Extra investment costs - 2071,extra project costs input,261,0
+Extra investment costs - 2072,extra project costs input,262,0
+Extra investment costs - 2073,extra project costs input,263,0
+Extra investment costs - 2074,extra project costs input,264,0
+Extra investment costs - 2075,extra project costs input,265,0
+Extra investment costs - 2076,extra project costs input,266,0
+Extra investment costs - 2077,extra project costs input,267,0
+Extra investment costs - 2078,extra project costs input,268,0
+Extra investment costs - 2079,extra project costs input,269,0
+Extra investment costs - 2080,extra project costs input,270,0
+Extra investment costs - 2081,extra project costs input,271,0
+Extra investment costs - 2082,extra project costs input,272,0
+Extra investment costs - 2083,extra project costs input,273,0
+Extra investment costs - 2084,extra project costs input,274,0
+Extra investment costs - 2085,extra project costs input,275,0
+Extra investment costs - 2086,extra project costs input,276,0
+Extra investment costs - 2087,extra project costs input,277,0
+Extra investment costs - 2088,extra project costs input,278,0
+Extra investment costs - 2089,extra project costs input,279,0
+Extra investment costs - 2090,extra project costs input,280,0
+Extra investment costs - 2091,extra project costs input,281,0
+Extra investment costs - 2092,extra project costs input,282,0
+Extra investment costs - 2093,extra project costs input,283,0
+Extra investment costs - 2094,extra project costs input,284,0
+Extra investment costs - 2095,extra project costs input,285,0
+Extra investment costs - 2096,extra project costs input,286,0
+Extra investment costs - 2097,extra project costs input,287,0
+Extra investment costs - 2098,extra project costs input,288,0
+Extra investment costs - 2099,extra project costs input,289,0
+Extra investment costs - 2100,extra project costs input,290,0
+Extra investment costs - 2101,extra project costs input,291,0
+Extra investment costs - 2102,extra project costs input,292,0
+set-up costs  - 2022,extra project costs input,293,6891814.39
+set-up costs  - 2023,extra project costs input,294,7320226.12
+set-up costs  - 2024,extra project costs input,295,5118300
+set-up costs  - 2025,extra project costs input,296,694507.33
+set-up costs  - 2026,extra project costs input,297,0
+set-up costs  - 2027,extra project costs input,298,0
+set-up costs  - 2028,extra project costs input,299,0
+set-up costs  - 2029,extra project costs input,300,0
+set-up costs  - 2030,extra project costs input,301,0
+set-up costs  - 2031,extra project costs input,302,0
+set-up costs  - 2032,extra project costs input,303,0
+set-up costs  - 2033,extra project costs input,304,0
+set-up costs  - 2034,extra project costs input,305,0
+set-up costs  - 2035,extra project costs input,306,0
+set-up costs  - 2036,extra project costs input,307,0
+set-up costs  - 2037,extra project costs input,308,0
+set-up costs  - 2038,extra project costs input,309,0
+set-up costs  - 2039,extra project costs input,310,0
+set-up costs  - 2040,extra project costs input,311,0
+set-up costs  - 2041,extra project costs input,312,0
+set-up costs  - 2042,extra project costs input,313,0
+set-up costs  - 2043,extra project costs input,314,0
+set-up costs  - 2044,extra project costs input,315,0
+set-up costs  - 2045,extra project costs input,316,0
+set-up costs  - 2046,extra project costs input,317,0
+set-up costs  - 2047,extra project costs input,318,0
+set-up costs  - 2048,extra project costs input,319,0
+set-up costs  - 2049,extra project costs input,320,0
+set-up costs  - 2050,extra project costs input,321,0
+set-up costs  - 2051,extra project costs input,322,0
+set-up costs  - 2052,extra project costs input,323,0
+set-up costs  - 2053,extra project costs input,324,0
+set-up costs  - 2054,extra project costs input,325,0
+set-up costs  - 2055,extra project costs input,326,0
+set-up costs  - 2056,extra project costs input,327,0
+set-up costs  - 2057,extra project costs input,328,0
+set-up costs  - 2058,extra project costs input,329,0
+set-up costs  - 2059,extra project costs input,330,0
+set-up costs  - 2060,extra project costs input,331,0
+set-up costs  - 2061,extra project costs input,332,0
+set-up costs  - 2062,extra project costs input,333,0
+set-up costs  - 2063,extra project costs input,334,0
+set-up costs  - 2064,extra project costs input,335,0
+set-up costs  - 2065,extra project costs input,336,0
+set-up costs  - 2066,extra project costs input,337,0
+set-up costs  - 2067,extra project costs input,338,0
+set-up costs  - 2068,extra project costs input,339,0
+set-up costs  - 2069,extra project costs input,340,0
+set-up costs  - 2070,extra project costs input,341,0
+set-up costs  - 2071,extra project costs input,342,0
+set-up costs  - 2072,extra project costs input,343,0
+set-up costs  - 2073,extra project costs input,344,0
+set-up costs  - 2074,extra project costs input,345,0
+set-up costs  - 2075,extra project costs input,346,0
+set-up costs  - 2076,extra project costs input,347,0
+set-up costs  - 2077,extra project costs input,348,0
+set-up costs  - 2078,extra project costs input,349,0
+set-up costs  - 2079,extra project costs input,350,0
+set-up costs  - 2080,extra project costs input,351,0
+set-up costs  - 2081,extra project costs input,352,0
+set-up costs  - 2082,extra project costs input,353,0
+set-up costs  - 2083,extra project costs input,354,0
+set-up costs  - 2084,extra project costs input,355,0
+set-up costs  - 2085,extra project costs input,356,0
+set-up costs  - 2086,extra project costs input,357,0
+set-up costs  - 2087,extra project costs input,358,0
+set-up costs  - 2088,extra project costs input,359,0
+set-up costs  - 2089,extra project costs input,360,0
+set-up costs  - 2090,extra project costs input,361,0
+set-up costs  - 2091,extra project costs input,362,0
+set-up costs  - 2092,extra project costs input,363,0
+set-up costs  - 2093,extra project costs input,364,0
+set-up costs  - 2094,extra project costs input,365,0
+set-up costs  - 2095,extra project costs input,366,0
+set-up costs  - 2096,extra project costs input,367,0
+set-up costs  - 2097,extra project costs input,368,0
+set-up costs  - 2098,extra project costs input,369,0
+set-up costs  - 2099,extra project costs input,370,0
+set-up costs  - 2100,extra project costs input,371,0
+set-up costs  - 2101,extra project costs input,372,0
+set-up costs  - 2102,extra project costs input,373,0
+IFRS 17 - 2022,extra project costs input,374,4023768.72
+IFRS 17 - 2023,extra project costs input,375,2765275.568
+IFRS 17 - 2024,extra project costs input,376,1314639.204
+IFRS 17 - 2025,extra project costs input,377,657319.6022
+IFRS 17 - 2026,extra project costs input,378,0
+IFRS 17 - 2027,extra project costs input,379,0
+IFRS 17 - 2028,extra project costs input,380,0
+IFRS 17 - 2029,extra project costs input,381,0
+IFRS 17 - 2030,extra project costs input,382,0
+IFRS 17 - 2031,extra project costs input,383,0
+IFRS 17 - 2032,extra project costs input,384,0
+IFRS 17 - 2033,extra project costs input,385,0
+IFRS 17 - 2034,extra project costs input,386,0
+IFRS 17 - 2035,extra project costs input,387,0
+IFRS 17 - 2036,extra project costs input,388,0
+IFRS 17 - 2037,extra project costs input,389,0
+IFRS 17 - 2038,extra project costs input,390,0
+IFRS 17 - 2039,extra project costs input,391,0
+IFRS 17 - 2040,extra project costs input,392,0
+IFRS 17 - 2041,extra project costs input,393,0
+IFRS 17 - 2042,extra project costs input,394,0
+IFRS 17 - 2043,extra project costs input,395,0
+IFRS 17 - 2044,extra project costs input,396,0
+IFRS 17 - 2045,extra project costs input,397,0
+IFRS 17 - 2046,extra project costs input,398,0
+IFRS 17 - 2047,extra project costs input,399,0
+IFRS 17 - 2048,extra project costs input,400,0
+IFRS 17 - 2049,extra project costs input,401,0
+IFRS 17 - 2050,extra project costs input,402,0
+IFRS 17 - 2051,extra project costs input,403,0
+IFRS 17 - 2052,extra project costs input,404,0
+IFRS 17 - 2053,extra project costs input,405,0
+IFRS 17 - 2054,extra project costs input,406,0
+IFRS 17 - 2055,extra project costs input,407,0
+IFRS 17 - 2056,extra project costs input,408,0
+IFRS 17 - 2057,extra project costs input,409,0
+IFRS 17 - 2058,extra project costs input,410,0
+IFRS 17 - 2059,extra project costs input,411,0
+IFRS 17 - 2060,extra project costs input,412,0
+IFRS 17 - 2061,extra project costs input,413,0
+IFRS 17 - 2062,extra project costs input,414,0
+IFRS 17 - 2063,extra project costs input,415,0
+IFRS 17 - 2064,extra project costs input,416,0
+IFRS 17 - 2065,extra project costs input,417,0
+IFRS 17 - 2066,extra project costs input,418,0
+IFRS 17 - 2067,extra project costs input,419,0
+IFRS 17 - 2068,extra project costs input,420,0
+IFRS 17 - 2069,extra project costs input,421,0
+IFRS 17 - 2070,extra project costs input,422,0
+IFRS 17 - 2071,extra project costs input,423,0
+IFRS 17 - 2072,extra project costs input,424,0
+IFRS 17 - 2073,extra project costs input,425,0
+IFRS 17 - 2074,extra project costs input,426,0
+IFRS 17 - 2075,extra project costs input,427,0
+IFRS 17 - 2076,extra project costs input,428,0
+IFRS 17 - 2077,extra project costs input,429,0
+IFRS 17 - 2078,extra project costs input,430,0
+IFRS 17 - 2079,extra project costs input,431,0
+IFRS 17 - 2080,extra project costs input,432,0
+IFRS 17 - 2081,extra project costs input,433,0
+IFRS 17 - 2082,extra project costs input,434,0
+IFRS 17 - 2083,extra project costs input,435,0
+IFRS 17 - 2084,extra project costs input,436,0
+IFRS 17 - 2085,extra project costs input,437,0
+IFRS 17 - 2086,extra project costs input,438,0
+IFRS 17 - 2087,extra project costs input,439,0
+IFRS 17 - 2088,extra project costs input,440,0
+IFRS 17 - 2089,extra project costs input,441,0
+IFRS 17 - 2090,extra project costs input,442,0
+IFRS 17 - 2091,extra project costs input,443,0
+IFRS 17 - 2092,extra project costs input,444,0
+IFRS 17 - 2093,extra project costs input,445,0
+IFRS 17 - 2094,extra project costs input,446,0
+IFRS 17 - 2095,extra project costs input,447,0
+IFRS 17 - 2096,extra project costs input,448,0
+IFRS 17 - 2097,extra project costs input,449,0
+IFRS 17 - 2098,extra project costs input,450,0
+IFRS 17 - 2099,extra project costs input,451,0
+IFRS 17 - 2100,extra project costs input,452,0
+IFRS 17 - 2101,extra project costs input,453,0
+IFRS 17 - 2102,extra project costs input,454,0
+Social plan expenses - 2022,extra project costs input,455,0
+Social plan expenses - 2023,extra project costs input,456,0
+Social plan expenses - 2024,extra project costs input,457,0
+Social plan expenses - 2025,extra project costs input,458,0
+Social plan expenses - 2026,extra project costs input,459,0
+Social plan expenses - 2027,extra project costs input,460,0
+Social plan expenses - 2028,extra project costs input,461,965207.2829
+Social plan expenses - 2029,extra project costs input,462,0
+Social plan expenses - 2030,extra project costs input,463,0
+Social plan expenses - 2031,extra project costs input,464,0
+Social plan expenses - 2032,extra project costs input,465,0
+Social plan expenses - 2033,extra project costs input,466,0
+Social plan expenses - 2034,extra project costs input,467,0
+Social plan expenses - 2035,extra project costs input,468,0
+Social plan expenses - 2036,extra project costs input,469,0
+Social plan expenses - 2037,extra project costs input,470,0
+Social plan expenses - 2038,extra project costs input,471,0
+Social plan expenses - 2039,extra project costs input,472,0
+Social plan expenses - 2040,extra project costs input,473,0
+Social plan expenses - 2041,extra project costs input,474,0
+Social plan expenses - 2042,extra project costs input,475,0
+Social plan expenses - 2043,extra project costs input,476,0
+Social plan expenses - 2044,extra project costs input,477,0
+Social plan expenses - 2045,extra project costs input,478,0
+Social plan expenses - 2046,extra project costs input,479,0
+Social plan expenses - 2047,extra project costs input,480,0
+Social plan expenses - 2048,extra project costs input,481,0
+Social plan expenses - 2049,extra project costs input,482,0
+Social plan expenses - 2050,extra project costs input,483,0
+Social plan expenses - 2051,extra project costs input,484,0
+Social plan expenses - 2052,extra project costs input,485,0
+Social plan expenses - 2053,extra project costs input,486,0
+Social plan expenses - 2054,extra project costs input,487,0
+Social plan expenses - 2055,extra project costs input,488,0
+Social plan expenses - 2056,extra project costs input,489,0
+Social plan expenses - 2057,extra project costs input,490,0
+Social plan expenses - 2058,extra project costs input,491,0
+Social plan expenses - 2059,extra project costs input,492,0
+Social plan expenses - 2060,extra project costs input,493,0
+Social plan expenses - 2061,extra project costs input,494,0
+Social plan expenses - 2062,extra project costs input,495,0
+Social plan expenses - 2063,extra project costs input,496,0
+Social plan expenses - 2064,extra project costs input,497,0
+Social plan expenses - 2065,extra project costs input,498,0
+Social plan expenses - 2066,extra project costs input,499,0
+Social plan expenses - 2067,extra project costs input,500,0
+Social plan expenses - 2068,extra project costs input,501,0
+Social plan expenses - 2069,extra project costs input,502,0
+Social plan expenses - 2070,extra project costs input,503,0
+Social plan expenses - 2071,extra project costs input,504,0
+Social plan expenses - 2072,extra project costs input,505,0
+Social plan expenses - 2073,extra project costs input,506,0
+Social plan expenses - 2074,extra project costs input,507,0
+Social plan expenses - 2075,extra project costs input,508,0
+Social plan expenses - 2076,extra project costs input,509,0
+Social plan expenses - 2077,extra project costs input,510,0
+Social plan expenses - 2078,extra project costs input,511,0
+Social plan expenses - 2079,extra project costs input,512,0
+Social plan expenses - 2080,extra project costs input,513,0
+Social plan expenses - 2081,extra project costs input,514,0
+Social plan expenses - 2082,extra project costs input,515,0
+Social plan expenses - 2083,extra project costs input,516,0
+Social plan expenses - 2084,extra project costs input,517,0
+Social plan expenses - 2085,extra project costs input,518,0
+Social plan expenses - 2086,extra project costs input,519,0
+Social plan expenses - 2087,extra project costs input,520,0
+Social plan expenses - 2088,extra project costs input,521,0
+Social plan expenses - 2089,extra project costs input,522,0
+Social plan expenses - 2090,extra project costs input,523,0
+Social plan expenses - 2091,extra project costs input,524,0
+Social plan expenses - 2092,extra project costs input,525,0
+Social plan expenses - 2093,extra project costs input,526,0
+Social plan expenses - 2094,extra project costs input,527,0
+Social plan expenses - 2095,extra project costs input,528,0
+Social plan expenses - 2096,extra project costs input,529,0
+Social plan expenses - 2097,extra project costs input,530,0
+Social plan expenses - 2098,extra project costs input,531,0
+Social plan expenses - 2099,extra project costs input,532,0
+Social plan expenses - 2100,extra project costs input,533,0
+Social plan expenses - 2101,extra project costs input,534,0
+Social plan expenses - 2102,extra project costs input,535,0
+total - 2022,extra project costs input,536,1.49E+07
+total - 2023,extra project costs input,537,1.39E+07
+total - 2024,extra project costs input,538,1.01E+07
+total - 2025,extra project costs input,539,2992409.932
+total - 2026,extra project costs input,540,0
+total - 2027,extra project costs input,541,0
+total - 2028,extra project costs input,542,965207.2829
+total - 2029,extra project costs input,543,0
+total - 2030,extra project costs input,544,0
+total - 2031,extra project costs input,545,0
+total - 2032,extra project costs input,546,0
+total - 2033,extra project costs input,547,0
+total - 2034,extra project costs input,548,0
+total - 2035,extra project costs input,549,0
+total - 2036,extra project costs input,550,0
+total - 2037,extra project costs input,551,0
+total - 2038,extra project costs input,552,0
+total - 2039,extra project costs input,553,0
+total - 2040,extra project costs input,554,0
+total - 2041,extra project costs input,555,0
+total - 2042,extra project costs input,556,0
+total - 2043,extra project costs input,557,0
+total - 2044,extra project costs input,558,0
+total - 2045,extra project costs input,559,0
+total - 2046,extra project costs input,560,0
+total - 2047,extra project costs input,561,0
+total - 2048,extra project costs input,562,0
+total - 2049,extra project costs input,563,0
+total - 2050,extra project costs input,564,0
+total - 2051,extra project costs input,565,0
+total - 2052,extra project costs input,566,0
+total - 2053,extra project costs input,567,0
+total - 2054,extra project costs input,568,0
+total - 2055,extra project costs input,569,0
+total - 2056,extra project costs input,570,0
+total - 2057,extra project costs input,571,0
+total - 2058,extra project costs input,572,0
+total - 2059,extra project costs input,573,0
+total - 2060,extra project costs input,574,0
+total - 2061,extra project costs input,575,0
+total - 2062,extra project costs input,576,0
+total - 2063,extra project costs input,577,0
+total - 2064,extra project costs input,578,0
+total - 2065,extra project costs input,579,0
+total - 2066,extra project costs input,580,0
+total - 2067,extra project costs input,581,0
+total - 2068,extra project costs input,582,0
+total - 2069,extra project costs input,583,0
+total - 2070,extra project costs input,584,0
+total - 2071,extra project costs input,585,0
+total - 2072,extra project costs input,586,0
+total - 2073,extra project costs input,587,0
+total - 2074,extra project costs input,588,0
+total - 2075,extra project costs input,589,0
+total - 2076,extra project costs input,590,0
+total - 2077,extra project costs input,591,0
+total - 2078,extra project costs input,592,0
+total - 2079,extra project costs input,593,0
+total - 2080,extra project costs input,594,0
+total - 2081,extra project costs input,595,0
+total - 2082,extra project costs input,596,0
+total - 2083,extra project costs input,597,0
+total - 2084,extra project costs input,598,0
+total - 2085,extra project costs input,599,0
+total - 2086,extra project costs input,600,0
+total - 2087,extra project costs input,601,0
+total - 2088,extra project costs input,602,0
+total - 2089,extra project costs input,603,0
+total - 2090,extra project costs input,604,0
+total - 2091,extra project costs input,605,0
+total - 2092,extra project costs input,606,0
+total - 2093,extra project costs input,607,0
+total - 2094,extra project costs input,608,0
+total - 2095,extra project costs input,609,0
+total - 2096,extra project costs input,610,0
+total - 2097,extra project costs input,611,0
+total - 2098,extra project costs input,612,0
+total - 2099,extra project costs input,613,0
+total - 2100,extra project costs input,614,0
+total - 2101,extra project costs input,615,0
+total - 2102,extra project costs input,616,0
+Run costs - 2022,IBM costs input,617,1.74E+07
+Run costs - 2023,IBM costs input,618,1.20E+07
+Run costs - 2024,IBM costs input,619,7075703.334
+Run costs - 2025,IBM costs input,620,5522918.164
+Run costs - 2026,IBM costs input,621,4915863.015
+Run costs - 2027,IBM costs input,622,4725451.414
+Run costs - 2028,IBM costs input,623,4230996.728
+Run costs - 2029,IBM costs input,624,4009061.513
+Run costs - 2030,IBM costs input,625,3953866.578
+Run costs - 2031,IBM costs input,626,3637041.486
+Run costs - 2032,IBM costs input,627,3568129.794
+Run costs - 2033,IBM costs input,628,3280542.213
+Run costs - 2034,IBM costs input,629,3156621.952
+Run costs - 2035,IBM costs input,630,3349879.188
+Run costs - 2036,IBM costs input,631,3026775.979
+Run costs - 2037,IBM costs input,632,2932955.435
+Run costs - 2038,IBM costs input,633,2971805.43
+Run costs - 2039,IBM costs input,634,3297171.287
+Run costs - 2040,IBM costs input,635,0
+Run costs - 2041,IBM costs input,636,0
+Run costs - 2042,IBM costs input,637,0
+Run costs - 2043,IBM costs input,638,0
+Run costs - 2044,IBM costs input,639,0
+Run costs - 2045,IBM costs input,640,0
+Run costs - 2046,IBM costs input,641,0
+Run costs - 2047,IBM costs input,642,0
+Run costs - 2048,IBM costs input,643,0
+Run costs - 2049,IBM costs input,644,0
+Run costs - 2050,IBM costs input,645,0
+Run costs - 2051,IBM costs input,646,0
+Run costs - 2052,IBM costs input,647,0
+Run costs - 2053,IBM costs input,648,0
+Run costs - 2054,IBM costs input,649,0
+Run costs - 2055,IBM costs input,650,0
+Run costs - 2056,IBM costs input,651,0
+Run costs - 2057,IBM costs input,652,0
+Run costs - 2058,IBM costs input,653,0
+Run costs - 2059,IBM costs input,654,0
+Run costs - 2060,IBM costs input,655,0
+Run costs - 2061,IBM costs input,656,0
+Run costs - 2062,IBM costs input,657,0
+Run costs - 2063,IBM costs input,658,0
+Run costs - 2064,IBM costs input,659,0
+Run costs - 2065,IBM costs input,660,0
+Run costs - 2066,IBM costs input,661,0
+Run costs - 2067,IBM costs input,662,0
+Run costs - 2068,IBM costs input,663,0
+Run costs - 2069,IBM costs input,664,0
+Run costs - 2070,IBM costs input,665,0
+Run costs - 2071,IBM costs input,666,0
+Run costs - 2072,IBM costs input,667,0
+Run costs - 2073,IBM costs input,668,0
+Run costs - 2074,IBM costs input,669,0
+Run costs - 2075,IBM costs input,670,0
+Run costs - 2076,IBM costs input,671,0
+Run costs - 2077,IBM costs input,672,0
+Run costs - 2078,IBM costs input,673,0
+Run costs - 2079,IBM costs input,674,0
+Run costs - 2080,IBM costs input,675,0
+Run costs - 2081,IBM costs input,676,0
+Run costs - 2082,IBM costs input,677,0
+Run costs - 2083,IBM costs input,678,0
+Run costs - 2084,IBM costs input,679,0
+Run costs - 2085,IBM costs input,680,0
+Run costs - 2086,IBM costs input,681,0
+Run costs - 2087,IBM costs input,682,0
+Run costs - 2088,IBM costs input,683,0
+Run costs - 2089,IBM costs input,684,0
+Run costs - 2090,IBM costs input,685,0
+Run costs - 2091,IBM costs input,686,0
+Run costs - 2092,IBM costs input,687,0
+Run costs - 2093,IBM costs input,688,0
+Run costs - 2094,IBM costs input,689,0
+Run costs - 2095,IBM costs input,690,0
+Run costs - 2096,IBM costs input,691,0
+Run costs - 2097,IBM costs input,692,0
+Run costs - 2098,IBM costs input,693,0
+Run costs - 2099,IBM costs input,694,0
+Run costs - 2100,IBM costs input,695,0
+Run costs - 2101,IBM costs input,696,0
+Run costs - 2102,IBM costs input,697,0
+Cost per policy - MoSes,SF,,47.81

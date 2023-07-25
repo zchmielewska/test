@@ -1,0 +1,13 @@
+model,charge_cd,charge_type
+AVN,1,EAL
+AVN,2,EKS
+AVN,3,DLA
+MM,1,EAL
+MM,2,EKS
+MM,3,DLA
+SB,1,EAL
+SB,2,EKS
+SB,3,DLA
+UVL,1,PRK
+UVL,2,EKS
+UVL,3,DLA

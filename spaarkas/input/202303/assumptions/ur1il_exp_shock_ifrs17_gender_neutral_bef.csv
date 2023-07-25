@@ -1,0 +1,17 @@
+source_scenario,percentile,direction,category,type_shock,duration,gender,age,businessline,product,value
+Transition,0.025,Down,LYF,2+,all durations,Females,0,life,LYF,0.94883081
+Transition,0.025,Down,LYF,1,all durations,Females,0,life,LYF,0.94883081
+Transition,0.975,Up,LYF,2+,all durations,Females,0,life,LYF,1.05116919
+Transition,0.975,Up,LYF,1,all durations,Females,0,life,LYF,1.05116919
+Base,0.2,Down,LYF,2+,all durations,Females,0,life,LYF,0.979062962
+Base,0.2,Down,LYF,1,all durations,Females,0,life,LYF,0.979062962
+Base,0.8,Up,LYF,2+,all durations,Females,0,life,LYF,1.020937038
+Base,0.8,Up,LYF,1,all durations,Females,0,life,LYF,1.020937038
+Transition,0.025,Down,LYF,2+,all durations,Males,0,life,LYF,0.94883081
+Transition,0.025,Down,LYF,1,all durations,Males,0,life,LYF,0.94883081
+Transition,0.975,Up,LYF,2+,all durations,Males,0,life,LYF,1.05116919
+Transition,0.975,Up,LYF,1,all durations,Males,0,life,LYF,1.05116919
+Base,0.2,Down,LYF,2+,all durations,Males,0,life,LYF,0.979062962
+Base,0.2,Down,LYF,1,all durations,Males,0,life,LYF,0.979062962
+Base,0.8,Up,LYF,2+,all durations,Males,0,life,LYF,1.020937038
+Base,0.8,Up,LYF,1,all durations,Males,0,life,LYF,1.020937038

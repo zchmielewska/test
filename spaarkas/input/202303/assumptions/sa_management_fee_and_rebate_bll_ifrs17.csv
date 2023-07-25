@@ -1,0 +1,27 @@
+number,fund_name,managementfee_including3bpservicefee,rebate_including3bpservicefee
+1,Aandelen_Fund,0.0039,0.00203
+2,Rente_Fund,0.0039,0.001412
+3,Mix_Fund,0.0052,0.0017636654467
+4,Vastgoed_Fund,0.0051,0.00203
+5,Deposito_Fund,0.0015,0.001412
+6,IndexPlus_Fund,0.0027,0.00203
+7,Emerging_Markets_Fund,0.0063,0.00203
+8,GarantiePlus (=deposito fund),0.0015,0.001412
+9,-,"",""
+10,Levensloop_HR,"",""
+11,Equity_Holland,"",""
+12,IndexPlus_Fund,0.0027,0.00203
+13,Equity_Europe,0.0039,0.00203
+14,Hypotheek_Rekening,"",""
+15,Equity_North_America,"",""
+16,Equity_Pacific,"",""
+17,GAR_Click_95_FND,"",""
+18,Aegon_Garantie_risico,"",""
+19,Aegon_Spaarhypotheek,"",""
+20,USA-Dollar_Fonds,"",""
+21,Comfort Europe,"",""
+22,Dynamic 6,0.0048918157754,0.0017970010366
+23,Dynamic 4,0.0042418381938,0.001643603813
+24,Deposito_Fonds_(Val),"",""
+25,STAATSLENINGEN,0.0039,5.6E-4
+26,STAATSLENINGEN,0.0039,5.6E-4
